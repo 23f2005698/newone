@@ -1,0 +1,879 @@
+login,full_name,created_at,stargazers_count,watchers_count,language,has_projects,has_wiki,license_name
+IDouble,IDouble/Binary-Calculator-Android-Java-App,2018-10-10T07:36:38Z,31,31,Java,True,True,MIT License
+IDouble,IDouble/Binary-Calculator-JavaScript,2018-06-24T09:30:35Z,93,93,JavaScript,True,True,MIT License
+IDouble,IDouble/Blazor-Razor-Playground-C-Sharp,2019-08-22T04:19:05Z,26,26,HTML,True,True,MIT License
+IDouble,IDouble/BMI-Calculator-Android-Java-App,2018-10-17T06:00:02Z,28,28,Java,True,True,MIT License
+IDouble,IDouble/BMI-Calculator-JavaScript,2018-10-15T02:35:49Z,38,38,JavaScript,True,True,MIT License
+IDouble,IDouble/Brainfuck-Code-Samples,2018-09-15T22:41:34Z,14,14,Brainfuck,True,True,MIT License
+IDouble,IDouble/Brainfuck-Interpreter-Node.js,2017-09-02T16:21:57Z,15,15,JavaScript,True,True,MIT License
+IDouble,IDouble/btcrelay,2018-09-23T11:32:15Z,11,11,Python,True,True,MIT License
+IDouble,IDouble/Cat-Face-Detector-with-OpenCV-and-JavaFX,2017-10-11T14:17:42Z,36,36,Java,True,True,MIT License
+IDouble,IDouble/ChatGPT-Simple-Tutorial-Image-Text-Code-Generation,2023-02-24T08:02:21Z,91,91,Python,True,True,MIT License
+IDouble,IDouble/Customizable-Crypto-Currency-Dashboard-with-Chart,2019-06-15T09:25:48Z,220,220,HTML,True,True,MIT License
+IDouble,IDouble/dapp-styles,2018-09-23T11:48:37Z,10,10,HTML,True,True,
+IDouble,IDouble/dcs,2018-09-23T12:52:54Z,9,9,Go,True,False,Other
+IDouble,IDouble/Decentralized-World-Wide-Web-ERC-721,2018-02-17T09:08:28Z,34,34,Solidity,True,True,MIT License
+IDouble,IDouble/Deep-Learning-Machine-Learning-AI-TensorFlow-Python,2018-11-28T14:09:26Z,39,39,Python,True,True,MIT License
+IDouble,IDouble/devp2p,2018-09-23T11:41:53Z,11,11,,True,True,
+IDouble,IDouble/Ethereum-Solidity-inline-Assembly,2019-10-18T21:36:58Z,29,29,Solidity,True,True,MIT License
+IDouble,IDouble/Forex-USD-Currency-Market-Chart,2022-04-26T16:10:59Z,60,60,HTML,True,True,MIT License
+IDouble,IDouble/ghidra,2019-08-21T06:58:25Z,18,18,Java,True,True,Apache License 2.0
+IDouble,IDouble/go-ethereum,2018-09-23T11:03:29Z,19,19,Go,True,True,GNU Lesser General Public License v3.0
+IDouble,IDouble/Gold-Silver-Ratio-Metal-Chart,2022-08-01T00:21:28Z,59,59,HTML,True,True,MIT License
+IDouble,IDouble/HTML-Crypto-Currency-Chart-Snippets,2019-06-10T07:34:31Z,280,280,HTML,True,True,MIT License
+IDouble,IDouble/IDouble,2022-11-18T17:26:07Z,44,44,,True,True,MIT License
+IDouble,IDouble/IoT-Arduino-Game-Controller-Java,2018-09-15T06:26:00Z,21,21,Java,True,True,MIT License
+IDouble,IDouble/IOTA-Arbitrage,2020-06-14T10:04:18Z,43,43,JavaScript,True,True,MIT License
+IDouble,IDouble/ioweb2015,2018-10-01T10:50:06Z,11,11,JavaScript,True,True,Apache License 2.0
+IDouble,IDouble/IPA-2018-Informatiker-EFZ-Applikationsentwicklung-Alpay-Yildirim,2018-09-06T10:13:13Z,70,70,C#,True,True,
+IDouble,IDouble/JNF_NEAT,2016-04-25T16:10:33Z,12,12,C++,True,True,Other
+IDouble,IDouble/JSON-XML-REST-SOAP-Playground,2019-01-04T11:43:03Z,26,26,C#,True,True,MIT License
+IDouble,IDouble/Kernel-Memory-Reading-Writing,2019-08-12T06:18:57Z,54,54,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/Adrenaline,2017-04-15T20:04:49Z,1517,1517,C,True,True,GNU General Public License v3.0
+TheOfficialFloW,TheOfficialFloW/armips,2021-03-07T18:08:51Z,2,2,,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/bc2_vita,2021-08-01T20:52:09Z,67,67,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/bd-jb,2021-10-22T16:20:32Z,222,222,Java,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/bully_vita,2021-02-08T21:56:09Z,78,78,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/conduit_vita,2023-03-11T11:12:36Z,28,28,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/crazytaxi_vita,2021-09-17T19:02:50Z,64,64,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/dejavu,2020-03-05T21:56:05Z,107,107,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/enso,2018-06-19T19:40:47Z,141,141,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/fahrenheit_vita,2022-06-26T13:27:59Z,14,14,C,True,True,GNU General Public License v3.0
+TheOfficialFloW,TheOfficialFloW/FdFix,2020-10-27T20:48:41Z,53,53,C,True,True,
+TheOfficialFloW,TheOfficialFloW/GePatch,2020-09-12T14:37:00Z,353,353,C,True,True,Other
+TheOfficialFloW,TheOfficialFloW/gtactw_vita,2021-02-08T17:26:37Z,58,58,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/GTANativeRes,2019-03-16T15:11:30Z,92,92,C,True,True,GNU General Public License v3.0
+TheOfficialFloW,TheOfficialFloW/gtasa_vita,2021-01-17T10:06:00Z,306,306,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/h-encore,2018-06-29T10:17:12Z,1068,1068,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/h-encore-2,2019-08-26T13:22:38Z,335,335,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/HENlo,2022-12-27T14:57:04Z,231,231,JavaScript,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/kubridge,2021-01-23T11:38:06Z,62,62,C,True,True,
+TheOfficialFloW,TheOfficialFloW/MiniVitaTV,2018-07-24T09:40:05Z,176,176,C,True,True,GNU General Public License v3.0
+TheOfficialFloW,TheOfficialFloW/modoru,2019-02-13T20:24:17Z,459,459,C,True,True,MIT License
+TheOfficialFloW,TheOfficialFloW/NoNpDrm,2017-09-15T08:48:32Z,827,827,C,True,True,GNU General Public License v3.0
+TheOfficialFloW,TheOfficialFloW/PPPwn,2024-04-30T16:09:20Z,2626,2626,Python,True,False,MIT License
+TheOfficialFloW,TheOfficialFloW/ppsspp,2021-02-21T10:18:39Z,22,22,C++,True,True,Other
+TheOfficialFloW,TheOfficialFloW/ppsspp-ffmpeg,2021-03-07T18:08:20Z,4,4,,True,True,Other
+TheOfficialFloW,TheOfficialFloW/Presentations,2022-06-12T19:16:39Z,74,74,,True,True,
+TheOfficialFloW,TheOfficialFloW/prxtool,2018-07-29T20:43:34Z,28,28,C,True,True,Other
+TheOfficialFloW,TheOfficialFloW/RemasteredControls,2018-07-27T10:24:52Z,248,248,C,True,True,GNU General Public License v3.0
+TheOfficialFloW,TheOfficialFloW/security-research,2024-02-20T10:37:45Z,7,7,C,True,False,Apache License 2.0
+TheOfficialFloW,TheOfficialFloW/taiHEN,2018-03-05T22:35:17Z,36,36,C,True,True,MIT License
+Seldaek,Seldaek/2fa,2021-03-31T19:54:56Z,0,0,,True,False,MIT License
+Seldaek,Seldaek/acme.sh,2018-06-20T17:19:25Z,0,0,Shell,True,True,
+Seldaek,Seldaek/ActivDevNoclineBundle,2012-10-28T12:50:43Z,2,2,PHP,True,True,GNU General Public License v3.0
+Seldaek,Seldaek/alice,2014-09-29T18:29:20Z,0,0,,True,True,MIT License
+Seldaek,Seldaek/AliceFixturesBundle,2013-12-17T09:43:53Z,2,2,PHP,True,True,
+Seldaek,Seldaek/altis-core,2022-03-30T14:20:30Z,0,0,,True,False,
+Seldaek,Seldaek/ansiparse,2012-04-18T13:15:37Z,1,1,JavaScript,True,True,MIT License
+Seldaek,Seldaek/AsseticBundle,2012-02-16T12:48:56Z,1,1,PHP,True,True,
+Seldaek,Seldaek/autoload-bench,2012-06-19T21:33:29Z,9,9,PHP,True,True,
+Seldaek,Seldaek/barbushin-phpconsole-fork,2020-12-09T13:13:59Z,0,0,,True,True,MIT License
+Seldaek,Seldaek/BazingaGeocoderBundle,2014-04-25T12:33:34Z,0,0,PHP,True,False,
+Seldaek,Seldaek/bitbucket-api,2017-03-08T15:00:22Z,0,0,PHP,True,False,MIT License
+Seldaek,Seldaek/Buzz,2012-03-09T15:32:10Z,4,4,PHP,True,False,MIT License
+Seldaek,Seldaek/cachetool,2020-02-11T19:58:22Z,1,1,PHP,True,True,MIT License
+Seldaek,Seldaek/cang-client,2012-03-20T21:48:28Z,2,2,JavaScript,True,True,Apache License 2.0
+Seldaek,Seldaek/CeeBox,2011-11-07T20:08:32Z,5,5,JavaScript,True,True,
+Seldaek,Seldaek/cerebro-files-nav,2017-07-25T07:51:05Z,0,0,JavaScript,True,True,
+Seldaek,Seldaek/chaplin,2014-01-08T11:13:51Z,0,0,CoffeeScript,True,True,Other
+Seldaek,Seldaek/Cilex,2015-09-01T16:21:31Z,0,0,PHP,True,True,MIT License
+Seldaek,Seldaek/class-map-generator,2024-08-22T15:52:09Z,0,0,,True,True,MIT License
+Seldaek,Seldaek/cli-prompt,2015-04-30T20:21:20Z,246,246,PHP,True,True,MIT License
+Seldaek,Seldaek/cms,2022-02-18T13:17:23Z,0,0,,True,False,Other
+Seldaek,Seldaek/CmsComposerInstallers,2015-06-11T13:58:44Z,0,0,PHP,True,True,
+Seldaek,Seldaek/common,2012-10-02T15:14:56Z,0,0,PHP,True,True,MIT License
+Seldaek,Seldaek/compass,2015-06-19T21:51:41Z,0,0,CSS,True,True,Other
+Seldaek,Seldaek/composer,2011-06-08T09:45:42Z,12,12,PHP,True,True,MIT License
+Seldaek,Seldaek/composer-dependency-version-audit-plugin,2022-01-03T12:27:24Z,0,0,,True,True,Open Software License 3.0
+Seldaek,Seldaek/composer-monorepo-plugin,2022-02-22T20:21:46Z,0,0,,True,True,MIT License
+Seldaek,Seldaek/composer-patches,2021-06-08T06:27:32Z,0,0,,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+Seldaek,Seldaek/composer-patches-1,2022-03-02T09:03:35Z,0,0,,True,True,MIT License
+riscv,riscv/.github,2022-02-16T19:42:32Z,2,2,,True,True,
+riscv,riscv/composable-custom-extensions,2024-04-25T18:16:27Z,2,2,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/configuration-structure,2020-04-07T19:45:44Z,37,37,Python,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/docs-dev-guide,2021-03-04T21:57:55Z,94,94,TeX,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/docs-resources,2022-01-07T21:21:16Z,32,32,CSS,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/docs-spec-template,2022-01-07T21:21:55Z,24,24,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/friendly-terminology,2023-09-22T13:34:46Z,0,0,,True,True,Apache License 2.0
+riscv,riscv/ft-trigger-delegation,2024-09-24T11:52:41Z,0,0,,True,False,Creative Commons Attribution 4.0 International
+riscv,riscv/guides,2024-11-18T18:30:36Z,0,0,,True,True,Creative Commons Zero v1.0 Universal
+riscv,riscv/integrated-matrix-extension,2024-10-01T11:58:33Z,6,6,,True,False,Creative Commons Attribution 4.0 International
+riscv,riscv/learn,2023-11-22T21:20:35Z,589,589,,False,False,Creative Commons Zero v1.0 Universal
+riscv,riscv/lightweight-isolation,2023-10-20T14:13:27Z,2,2,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/meta-riscv,2018-03-14T05:27:58Z,368,368,BitBake,True,True,Other
+riscv,riscv/riscv-aclint,2021-05-24T15:30:27Z,41,41,Makefile,True,True,Other
+riscv,riscv/riscv-aia,2021-05-24T15:30:04Z,83,83,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-attached-matrix-facility,2023-10-19T01:54:37Z,7,7,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-b,2024-01-02T13:54:44Z,4,4,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-bfloat16,2022-05-03T14:15:38Z,31,31,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-bitmanip,2019-03-22T00:29:01Z,205,205,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-cfi,2022-06-13T19:58:04Z,86,86,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-cheri,2024-01-05T21:33:43Z,57,57,Python,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-CMOs,2020-07-10T22:31:21Z,82,82,HTML,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-control-transfer-records,2022-10-05T12:31:35Z,17,17,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-crypto,2019-12-12T10:57:09Z,370,370,C,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-debug-spec,2017-01-20T20:58:54Z,461,461,Python,True,True,Other
+riscv,riscv/riscv-docs-base-container-image,2023-01-09T17:48:47Z,9,9,,True,True,Apache License 2.0
+riscv,riscv/riscv-dot-product,2023-12-22T17:10:22Z,4,4,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-double-trap,2024-01-26T18:07:33Z,12,12,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-fast-interrupt,2018-06-23T00:11:52Z,253,253,Makefile,True,True,Creative Commons Attribution 4.0 International
+riscv,riscv/riscv-glossary,2021-05-25T19:56:00Z,5,5,Makefile,True,True,
+JonnyBurger,JonnyBurger/10x-actions,2020-04-06T16:47:55Z,2,2,TypeScript,True,True,
+JonnyBurger,JonnyBurger/3-1-graphics,2022-07-18T13:12:27Z,2,2,TypeScript,True,True,
+JonnyBurger,JonnyBurger/actions-yarn,2019-02-07T11:51:34Z,0,0,Shell,True,True,
+JonnyBurger,JonnyBurger/agenda,2018-01-11T13:11:18Z,0,0,JavaScript,True,True,Other
+JonnyBurger,JonnyBurger/alpine-bug-repro,2023-09-15T13:25:11Z,1,1,TypeScript,True,True,
+JonnyBurger,JonnyBurger/android-github-actions,2019-07-07T10:15:36Z,0,0,Dockerfile,True,True,Apache License 2.0
+JonnyBurger,JonnyBurger/anysticker-screens,2019-05-29T12:50:24Z,0,0,TypeScript,True,True,
+JonnyBurger,JonnyBurger/anysticker-tutorials,2021-01-31T15:25:01Z,69,69,TypeScript,True,True,
+JonnyBurger,JonnyBurger/augur-node,2018-04-30T08:04:13Z,0,0,TypeScript,True,True,MIT License
+JonnyBurger,JonnyBurger/awesome-lottie,2022-08-10T15:21:37Z,0,0,,True,True,
+JonnyBurger,JonnyBurger/basketball-tracker,2022-05-12T20:52:46Z,28,28,TypeScript,False,False,
+JonnyBurger,JonnyBurger/bestande-android,2015-12-29T14:53:50Z,3,3,Java,True,True,
+JonnyBurger,JonnyBurger/bestande-ios,2015-12-29T15:05:43Z,1,1,Swift,True,True,
+JonnyBurger,JonnyBurger/bibtexParseJs,2016-06-30T12:40:56Z,0,0,JavaScript,True,True,MIT License
+JonnyBurger,JonnyBurger/bun,2024-05-01T10:20:46Z,0,0,Zig,True,False,
+JonnyBurger,JonnyBurger/bus,2013-08-17T16:46:55Z,0,0,JavaScript,True,True,
+JonnyBurger,JonnyBurger/calories-burnt,2019-02-19T13:36:10Z,3,3,TypeScript,True,True,MIT License
+JonnyBurger,JonnyBurger/camel-up-helpers,2015-04-19T13:52:14Z,0,0,JavaScript,True,True,
+JonnyBurger,JonnyBurger/canvas-offset-bug,2021-03-03T17:34:58Z,0,0,TypeScript,True,True,
+JonnyBurger,JonnyBurger/canvaskit-js,2024-04-19T12:13:52Z,0,0,TypeScript,True,True,MIT License
+JonnyBurger,JonnyBurger/chrome-aws-lambda,2021-11-19T19:11:23Z,0,0,,True,True,MIT License
+JonnyBurger,JonnyBurger/clarinet,2014-10-17T10:48:20Z,0,0,JavaScript,True,True,Other
+JonnyBurger,JonnyBurger/code-differ,2023-05-14T14:44:04Z,0,0,TypeScript,True,True,
+JonnyBurger,JonnyBurger/coffee-tracker-pi,2020-04-15T13:44:31Z,0,0,TypeScript,True,True,
+JonnyBurger,JonnyBurger/color,2019-07-09T13:43:48Z,0,0,Go,True,True,MIT License
+JonnyBurger,JonnyBurger/content,2022-05-17T12:15:09Z,0,0,,True,False,Other
+JonnyBurger,JonnyBurger/contribution-graph,2023-10-19T15:26:31Z,30,30,TypeScript,True,True,
+JonnyBurger,JonnyBurger/corepack,2024-06-02T10:10:43Z,0,0,,True,True,MIT License
+JonnyBurger,JonnyBurger/create-react-app,2017-01-14T17:41:56Z,0,0,JavaScript,True,True,Other
+JonnyBurger,JonnyBurger/current-android-app-version,2018-03-31T17:31:15Z,0,0,JavaScript,True,True,MIT License
+bpasero,bpasero/anymatch,2019-08-26T05:48:29Z,0,0,JavaScript,True,False,ISC License
+bpasero,bpasero/asp-starter,2014-03-27T14:52:30Z,0,0,JavaScript,True,True,
+bpasero,bpasero/atom,2015-11-19T12:56:55Z,1,1,CoffeeScript,True,False,MIT License
+bpasero,bpasero/atom-quicknavigate,2015-08-10T12:00:07Z,0,0,CoffeeScript,True,True,MIT License
+bpasero,bpasero/attachments,2015-09-23T06:41:34Z,0,0,,True,True,
+bpasero,bpasero/AzureNpmCertWorkaround,2014-03-02T09:07:41Z,0,0,Shell,True,True,Apache License 2.0
+bpasero,bpasero/ballpark-tracker,2020-10-22T08:54:20Z,0,0,,True,True,
+bpasero,bpasero/chokidar,2020-05-03T08:40:02Z,0,0,,True,False,MIT License
+bpasero,bpasero/chokidar-prebuilt,2015-08-18T14:45:40Z,0,0,JavaScript,True,True,
+bpasero,bpasero/chokidar-test,2020-03-25T08:24:02Z,1,1,JavaScript,True,True,
+bpasero,bpasero/ci-testing,2015-12-14T18:08:07Z,0,0,TypeScript,True,True,
+bpasero,bpasero/copy-path-relative-posix,2019-10-27T10:42:22Z,7,7,TypeScript,True,True,
+bpasero,bpasero/debug-electron-vscode,2017-03-23T22:30:19Z,28,28,JavaScript,True,True,Creative Commons Zero v1.0 Universal
+bpasero,bpasero/DefinitelyTyped,2020-02-27T17:16:35Z,0,0,TypeScript,True,True,Other
+bpasero,bpasero/demo-companion,2020-12-02T13:25:22Z,0,0,,True,True,
+bpasero,bpasero/demo-companion-prod,2020-12-02T13:25:28Z,0,0,,True,True,
+bpasero,bpasero/detected-task,2017-05-29T10:29:47Z,0,0,JavaScript,True,True,
+bpasero,bpasero/electron,2021-01-27T14:58:39Z,0,0,,True,False,MIT License
+bpasero,bpasero/electron-cached-data,2018-12-17T11:41:55Z,0,0,CSS,True,True,Creative Commons Zero v1.0 Universal
+bpasero,bpasero/electron-crashreporter,2019-09-14T07:18:45Z,1,1,JavaScript,True,True,Creative Commons Zero v1.0 Universal
+bpasero,bpasero/electron-gpu,2017-05-07T07:12:43Z,1,1,,True,True,
+bpasero,bpasero/electron-hidden-title-crash,2016-11-10T07:39:56Z,0,0,JavaScript,True,True,
+bpasero,bpasero/electron-inspect,2017-06-07T19:02:19Z,0,0,JavaScript,True,True,
+bpasero,bpasero/electron-message-port,2021-01-04T10:24:58Z,4,4,JavaScript,True,True,Creative Commons Zero v1.0 Universal
+bpasero,bpasero/electron-prebuilt,2017-12-14T06:39:29Z,0,0,,True,True,
+bpasero,bpasero/electron-quick-start,2018-07-14T07:49:53Z,0,0,JavaScript,True,True,Creative Commons Zero v1.0 Universal
+bpasero,bpasero/electron-sandbox,2017-06-02T10:56:11Z,0,0,HTML,True,True,
+bpasero,bpasero/electron-sandbox-playground,2020-03-13T15:59:43Z,0,0,JavaScript,True,True,
+bpasero,bpasero/electron-typescript-definitions,2017-09-07T04:00:50Z,0,0,TypeScript,True,True,
+bpasero,bpasero/end-js,2018-12-04T11:18:43Z,0,0,JavaScript,True,True,
+ethz-asl,ethz-asl/.github,2023-06-05T14:04:51Z,0,0,,True,True,
+ethz-asl,ethz-asl/3d3l,2020-10-27T14:57:57Z,45,45,Python,True,True,MIT License
+ethz-asl,ethz-asl/3dsnet,2021-05-07T14:01:02Z,38,38,C++,True,True,MIT License
+ethz-asl,ethz-asl/3d_vsg,2022-09-15T11:08:15Z,89,89,Python,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+ethz-asl,ethz-asl/aass_icr,2017-02-20T13:48:00Z,1,1,C++,True,True,
+ethz-asl,ethz-asl/abb_experimental,2015-11-25T12:12:10Z,0,0,CMake,True,True,Apache License 2.0
+ethz-asl,ethz-asl/abseil_catkin,2021-06-08T11:34:54Z,1,1,CMake,True,True,
+ethz-asl,ethz-asl/active_grasp,2022-01-06T13:11:48Z,75,75,Python,False,False,MIT License
+ethz-asl,ethz-asl/active_learning_for_segmentation,2021-04-06T09:34:50Z,19,19,Python,True,True,
+ethz-asl,ethz-asl/adaptive-snowsampler,2024-03-28T12:57:39Z,3,3,C++,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+ethz-asl,ethz-asl/aerial_mapper,2017-06-19T12:31:30Z,569,569,C++,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+ethz-asl,ethz-asl/aerial_renderer,2020-07-30T10:46:03Z,2,2,,True,True,
+ethz-asl,ethz-asl/AirSim,2020-03-23T15:41:03Z,11,11,C++,True,True,Other
+ethz-asl,ethz-asl/ai_for_robotics,2017-02-20T08:50:16Z,63,63,Python,True,True,Other
+ethz-asl,ethz-asl/amr_visualisations,2020-02-12T21:27:14Z,29,29,Python,True,True,MIT License
+ethz-asl,ethz-asl/analog_gauge_reader,2023-02-15T14:22:29Z,26,26,Python,True,True,MIT License
+ethz-asl,ethz-asl/ApproxMVBB,2019-04-10T10:37:52Z,1,1,C++,True,True,Mozilla Public License 2.0
+ethz-asl,ethz-asl/approxmvbb_catkin,2019-04-01T07:40:16Z,1,1,CMake,True,True,
+ethz-asl,ethz-asl/artefact_mapping,2020-01-13T12:21:12Z,9,9,C++,True,True,
+ethz-asl,ethz-asl/asctec_mav_framework,2011-06-23T14:03:21Z,37,37,C,True,True,
+ethz-asl,ethz-asl/asl-actions,2023-10-30T15:25:12Z,1,1,C++,True,True,Apache License 2.0
+ethz-asl,ethz-asl/asl-phd-templates,2014-05-12T13:55:42Z,16,16,TeX,True,True,
+ethz-asl,ethz-asl/asl-student-templates,2013-10-10T10:18:48Z,58,58,PostScript,True,True,
+ethz-asl,ethz-asl/aslam_cv2,2017-09-18T14:13:12Z,199,199,C++,True,True,Apache License 2.0
+ethz-asl,ethz-asl/aslam_incremental_calibration,2013-02-11T12:31:58Z,17,17,C++,True,True,Other
+ethz-asl,ethz-asl/aslam_optimizer,2013-02-11T19:07:40Z,36,36,C++,True,True,Other
+ethz-asl,ethz-asl/aslam_sample_consensus,2013-02-05T14:49:36Z,6,6,C++,True,True,
+ethz-asl,ethz-asl/aslam_splines,2017-01-13T20:17:56Z,28,28,C++,True,True,Other
+ethz-asl,ethz-asl/asldoc-2018-aeroconf-oettershagen,2018-08-09T05:42:09Z,1,1,TeX,True,True,
+ethz-asl,ethz-asl/asl_cmake_modules,2014-05-07T11:42:21Z,0,0,,True,True,
+egamma,egamma/acme-fitness-store,2023-03-02T16:54:15Z,0,0,CSS,True,True,MIT License
+egamma,egamma/atom-beautify,2016-02-09T19:48:31Z,0,0,CoffeeScript,True,True,MIT License
+egamma,egamma/azure-content-dede,2016-01-15T16:38:37Z,0,0,,True,True,Other
+egamma,egamma/azure-quickstart-templates,2017-02-20T21:45:32Z,0,0,Shell,True,True,MIT License
+egamma,egamma/azure-sdk-for-node,2012-07-06T07:14:09Z,5,5,JavaScript,True,True,Apache License 2.0
+egamma,egamma/azure-sdk-for-ruby,2013-07-11T07:59:02Z,2,2,Ruby,True,True,
+egamma,egamma/BracketPair,2020-01-17T14:24:17Z,0,0,,True,True,MIT License
+egamma,egamma/chat-agent-dalle,2024-01-30T14:32:44Z,0,0,,True,True,
+egamma,egamma/code-settings-sync,2019-11-29T14:57:14Z,0,0,,True,True,MIT License
+egamma,egamma/codetour-agent,2023-12-09T13:18:24Z,1,1,TypeScript,True,True,
+egamma,egamma/egammaCase,2020-04-06T19:11:27Z,0,0,,True,True,
+egamma,egamma/es6-vscode-sample,2015-07-03T06:24:57Z,1,1,JavaScript,True,True,
+egamma,egamma/example-cpp-project,2020-10-09T07:43:11Z,0,0,,True,True,The Unlicense
+egamma,egamma/express-app,2020-11-06T13:37:02Z,1,1,JavaScript,True,True,
+egamma,egamma/first-docked-app,2015-02-04T16:51:29Z,0,0,C#,True,True,MIT License
+egamma,egamma/generator-aspnet,2014-11-14T21:06:18Z,0,0,JavaScript,True,True,
+egamma,egamma/gistpad,2020-09-15T07:09:32Z,0,0,,True,True,MIT License
+egamma,egamma/gulp-tsb,2016-01-20T08:24:31Z,0,0,JavaScript,True,True,MIT License
+egamma,egamma/hello,2013-11-20T14:51:55Z,0,0,HTML,True,True,
+egamma,egamma/hello-extension,2020-05-05T07:47:57Z,0,0,TypeScript,True,True,MIT License
+egamma,egamma/hello-extension2,2020-05-05T10:21:23Z,0,0,,True,True,
+egamma,egamma/hello-go,2016-09-23T15:36:52Z,0,0,Go,True,True,
+egamma,egamma/HTML-CSS-Class-Completion,2017-10-12T14:03:59Z,1,1,TypeScript,True,False,MIT License
+egamma,egamma/ipynb-examples,2020-10-03T08:25:50Z,0,0,,True,True,
+egamma,egamma/Java-Pet-Store,2021-01-20T10:31:23Z,0,0,,True,True,
+egamma,egamma/jekyll-starter-e2e,2020-12-02T08:33:20Z,0,0,,True,False,Other
+egamma,egamma/langchain-demobook,2023-05-22T15:41:55Z,1,1,,True,True,
+egamma,egamma/langchain-ts-starter,2023-05-17T09:32:31Z,0,0,,True,True,
+egamma,egamma/mobiletry,2013-09-02T06:43:06Z,0,0,TypeScript,True,True,
+egamma,egamma/my-app,2020-10-14T21:37:16Z,0,0,JavaScript,True,True,
+sahildua2305,sahildua2305/A-B-testing-PHP,2016-03-09T19:26:18Z,14,14,PHP,True,True,
+sahildua2305,sahildua2305/AddNewVirtualHost,2016-01-26T23:52:00Z,1,1,Shell,True,True,GNU General Public License v3.0
+sahildua2305,sahildua2305/AlgoWiki,2016-10-02T11:20:10Z,2,2,CSS,True,True,MIT License
+sahildua2305,sahildua2305/appbase-js,2015-09-30T22:24:28Z,0,0,JavaScript,True,True,MIT License
+sahildua2305,sahildua2305/awesome-cli-apps,2016-09-22T21:31:06Z,2,2,,True,True,
+sahildua2305,sahildua2305/awesome-deep-learning,2015-11-29T15:31:58Z,2,2,,True,True,
+sahildua2305,sahildua2305/awesome-for-beginners,2017-05-06T23:47:43Z,7,7,,True,True,
+sahildua2305,sahildua2305/awesome-nodejs,2016-09-20T21:23:28Z,0,0,,True,False,
+sahildua2305,sahildua2305/awesome-oss-mentors,2018-01-14T23:03:50Z,0,0,,True,True,MIT License
+sahildua2305,sahildua2305/Back-to-future-theme,2016-03-14T18:26:21Z,0,0,JavaScript,True,True,
+sahildua2305,sahildua2305/bcs-lstm,2017-12-04T01:00:59Z,0,0,OpenEdge ABL,True,True,MIT License
+sahildua2305,sahildua2305/BinPy,2014-06-14T08:22:01Z,0,0,Python,True,True,Other
+sahildua2305,sahildua2305/bitly-api,2014-06-09T19:49:03Z,0,0,,True,True,
+sahildua2305,sahildua2305/brackets,2016-09-28T21:21:40Z,0,0,JavaScript,True,True,MIT License
+sahildua2305,sahildua2305/brickbuster,2014-03-28T07:52:57Z,0,0,Python,True,True,
+sahildua2305,sahildua2305/brickbuster.py,2014-03-28T12:15:52Z,0,0,Python,True,True,
+sahildua2305,sahildua2305/browser-tail-log,2016-02-05T12:38:48Z,5,5,PHP,True,True,
+sahildua2305,sahildua2305/btp,2016-06-01T15:02:14Z,0,0,JavaScript,True,True,MIT License
+sahildua2305,sahildua2305/byzanz-record-gif,2016-05-06T20:43:05Z,5,5,Shell,True,True,
+sahildua2305,sahildua2305/CachingRoutineAPI,2015-08-18T12:48:32Z,0,0,Python,True,True,
+sahildua2305,sahildua2305/campus_evangelist,2014-09-18T22:55:52Z,0,0,,True,True,
+sahildua2305,sahildua2305/capify-chrome,2014-09-25T19:35:44Z,0,0,JavaScript,True,True,MIT License
+sahildua2305,sahildua2305/ChatBot-Simple,2016-07-29T09:36:57Z,0,0,Perl,True,True,
+sahildua2305,sahildua2305/ChatBot-Web,2016-07-29T12:11:51Z,2,2,Perl,True,True,MIT License
+sahildua2305,sahildua2305/checkroot,2016-06-21T10:55:53Z,1,1,JavaScript,True,True,MIT License
+sahildua2305,sahildua2305/chrome-meanings-history,2014-06-27T17:12:32Z,0,0,JavaScript,True,True,GNU General Public License v2.0
+sahildua2305,sahildua2305/chrome-time-conversion,2014-06-25T22:26:04Z,6,6,JavaScript,True,True,
+sahildua2305,sahildua2305/chrome-zeroclickinfo,2016-01-29T11:01:12Z,0,0,JavaScript,True,True,Other
+sahildua2305,sahildua2305/coala,2016-11-02T00:38:17Z,0,0,Python,True,True,GNU Affero General Public License v3.0
+sahildua2305,sahildua2305/coala-bears,2016-11-02T00:16:08Z,0,0,Python,True,False,GNU Affero General Public License v3.0
+joaomoreno,joaomoreno/adm-zip,2014-12-08T09:07:33Z,1,1,JavaScript,True,True,Other
+joaomoreno,joaomoreno/advent-of-code-2017,2017-12-07T20:21:16Z,2,2,JavaScript,True,True,
+joaomoreno,joaomoreno/advent-of-code-2018,2018-12-01T09:46:48Z,1,1,JavaScript,True,True,
+joaomoreno,joaomoreno/aoc-2023,2023-12-01T17:56:44Z,1,1,Jupyter Notebook,True,True,
+joaomoreno,joaomoreno/aoc2020,2020-12-01T09:18:04Z,1,1,JavaScript,True,True,
+joaomoreno,joaomoreno/aoc2021,2021-12-01T19:36:05Z,1,1,Jupyter Notebook,True,True,
+joaomoreno,joaomoreno/aoc2022,2022-12-01T08:50:03Z,1,1,Jupyter Notebook,True,True,
+joaomoreno,joaomoreno/AppImageKit,2016-08-24T14:29:51Z,1,1,Python,True,True,Other
+joaomoreno,joaomoreno/appveyor-rust,2018-01-23T15:53:46Z,1,1,,True,True,BSD Zero Clause License
+joaomoreno,joaomoreno/arduino-rgb-lamp,2011-04-28T17:13:53Z,2,2,,True,True,
+joaomoreno,joaomoreno/atom-beautify,2016-02-10T13:40:57Z,1,1,CoffeeScript,True,True,MIT License
+joaomoreno,joaomoreno/azure-documentdb-node,2016-01-18T16:37:51Z,1,1,JavaScript,True,True,MIT License
+joaomoreno,joaomoreno/azure-pipelines-extensions,2021-04-09T08:30:34Z,1,1,,True,True,MIT License
+joaomoreno,joaomoreno/azure-storage-node,2015-05-19T17:46:06Z,1,1,JavaScript,True,True,Apache License 2.0
+joaomoreno,joaomoreno/baerlis,2024-04-16T11:22:15Z,1,1,JavaScript,False,False,
+joaomoreno,joaomoreno/chromedriver,2017-10-25T09:13:31Z,1,1,JavaScript,True,True,
+joaomoreno,joaomoreno/code-update,2017-07-25T08:09:07Z,1,1,JavaScript,True,True,
+joaomoreno,joaomoreno/codetour,2021-04-26T09:49:03Z,2,2,TypeScript,True,False,MIT License
+joaomoreno,joaomoreno/commander.js,2015-12-16T18:26:42Z,1,1,JavaScript,True,True,MIT License
+joaomoreno,joaomoreno/cosmosdb-concurrency-tests,2019-11-01T15:37:59Z,1,1,TypeScript,True,True,
+joaomoreno,joaomoreno/deemon,2020-04-16T08:40:51Z,59,59,TypeScript,False,False,MIT License
+joaomoreno,joaomoreno/DefinitelyTyped,2015-10-13T13:36:44Z,1,1,TypeScript,True,True,Other
+joaomoreno,joaomoreno/demo-companion,2021-03-05T12:38:16Z,1,1,,True,True,
+joaomoreno,joaomoreno/docco,2016-10-21T14:08:28Z,1,1,CSS,True,False,MIT License
+joaomoreno,joaomoreno/dotfiles,2018-09-17T20:21:49Z,3,3,Shell,True,True,
+joaomoreno,joaomoreno/easy_rust,2020-07-23T12:06:35Z,4,4,,True,True,MIT License
+joaomoreno,joaomoreno/electron,2014-11-25T15:48:06Z,1,1,C++,True,False,MIT License
+joaomoreno,joaomoreno/EmptyWebApplication,2015-02-23T16:44:12Z,1,1,C#,True,True,
+joaomoreno,joaomoreno/encodings,2017-03-28T12:59:36Z,2,2,,True,True,
+joaomoreno,joaomoreno/esbuild,2021-01-09T14:56:25Z,1,1,Go,True,False,MIT License
+klaudiosinani,klaudiosinani/.github,2024-08-29T10:01:54Z,0,0,,True,True,
+klaudiosinani,klaudiosinani/ao,2017-09-07T20:50:50Z,2117,2117,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/arare,2018-10-31T17:25:48Z,126,126,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/avlbinstree,2019-05-31T15:30:32Z,12,12,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/awesome-prolog,2017-11-05T21:47:41Z,505,505,,True,True,Creative Commons Zero v1.0 Universal
+klaudiosinani,klaudiosinani/binoheap,2019-07-19T00:04:49Z,9,9,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/binstree,2019-01-31T21:45:02Z,34,34,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/doublie,2018-05-29T20:04:02Z,22,22,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/dsforest,2019-07-11T16:24:57Z,16,16,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/hyper-pokemon,2017-06-11T00:13:19Z,1038,1038,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/hyper-star-wars,2017-07-24T13:55:04Z,245,245,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/hyperocean,2018-04-30T19:59:56Z,230,230,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/itermocean,2020-03-23T02:25:02Z,12,12,,True,True,MIT License
+klaudiosinani,klaudiosinani/kiu,2019-07-06T17:53:42Z,13,13,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/klaudiosinani.github.io,2018-03-02T20:02:46Z,2,2,Astro,True,True,MIT License
+klaudiosinani,klaudiosinani/mheap,2019-04-22T16:27:45Z,12,12,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/microcomputer-assembly,2019-07-25T17:15:26Z,9,9,Assembly,True,True,MIT License
+klaudiosinani,klaudiosinani/moviebox,2018-01-23T20:37:19Z,523,523,Python,True,True,MIT License
+klaudiosinani,klaudiosinani/oceandock,2018-07-15T20:53:19Z,32,32,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/operating-systems,2019-07-25T17:16:09Z,12,12,C,True,True,MIT License
+klaudiosinani,klaudiosinani/prioqueue,2019-05-10T22:21:46Z,24,24,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/qoa,2019-01-10T21:57:31Z,2044,2044,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/rels,2018-12-26T21:29:55Z,89,89,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/shtack,2019-07-02T01:12:01Z,9,9,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/signale,2018-04-08T16:04:09Z,8932,8932,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/singlie,2018-06-18T01:05:43Z,186,186,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/taskbook,2018-02-12T05:37:22Z,8985,8985,JavaScript,True,True,MIT License
+klaudiosinani,klaudiosinani/tusk,2017-08-07T14:52:35Z,3152,3152,JavaScript,True,True,MIT License
+sbrannen,sbrannen/amber-docs,2021-07-26T16:42:36Z,0,0,,True,False,GNU General Public License v2.0
+sbrannen,sbrannen/assertj-core,2019-06-19T12:18:07Z,0,0,Java,True,False,Apache License 2.0
+sbrannen,sbrannen/BlockHound,2019-03-26T17:38:32Z,0,0,C,True,False,Apache License 2.0
+sbrannen,sbrannen/graalvm-playground,2020-03-05T17:42:08Z,0,0,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/junit,2015-02-15T20:26:36Z,1,1,Java,True,True,Eclipse Public License 1.0
+sbrannen,sbrannen/junit-converters,2019-02-15T12:15:27Z,6,6,Shell,True,True,Apache License 2.0
+sbrannen,sbrannen/junit-lambda-playground,2015-10-22T12:02:29Z,1,1,Java,True,False,Eclipse Public License 1.0
+sbrannen,sbrannen/junit5,2015-10-28T19:10:53Z,4,4,Java,True,True,Eclipse Public License 2.0
+sbrannen,sbrannen/junit5-demo,2017-10-02T17:07:03Z,46,46,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/microbenchmark-runner,2018-12-18T10:51:06Z,0,0,Java,True,False,Apache License 2.0
+sbrannen,sbrannen/native-build-tools,2021-07-02T13:13:15Z,0,0,Java,True,True,Other
+sbrannen,sbrannen/opentest4j,2015-12-10T19:27:08Z,1,1,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/runtime-annotations,2017-11-18T16:55:59Z,0,0,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/sb-native-image-aspect-error,2024-09-06T15:26:22Z,0,0,,True,True,
+sbrannen,sbrannen/spring-annotationutils-issue,2019-11-05T14:36:22Z,0,0,,True,True,Eclipse Public License 2.0
+sbrannen,sbrannen/spring-asciidoctor-backends,2023-02-20T17:02:18Z,0,0,,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-batch,2019-03-02T11:27:04Z,1,1,Java,True,True,
+sbrannen,sbrannen/spring-boot,2015-07-02T12:10:33Z,1,1,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-composed,2015-09-06T20:42:25Z,88,88,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-events,2014-11-04T21:43:51Z,102,102,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-framework,2012-05-10T16:17:13Z,6,6,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-framework-issues,2012-06-12T22:32:56Z,1,1,Java,True,False,
+sbrannen,sbrannen/spring-integration,2024-08-23T13:57:53Z,0,0,,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-module-system,2022-05-24T12:59:09Z,3,3,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-native,2021-10-31T15:13:31Z,0,0,Java,True,False,Apache License 2.0
+sbrannen,sbrannen/spring-polyglot,2016-03-09T11:51:24Z,18,18,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-security,2024-01-05T10:51:32Z,0,0,,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-test-junit5,2015-11-21T17:28:46Z,140,140,Java,True,True,Apache License 2.0
+sbrannen,sbrannen/spring-webflow,2024-11-09T16:20:05Z,0,0,,True,True,Apache License 2.0
+sbrannen,sbrannen/switzerland2024,2024-11-17T12:43:38Z,0,0,,True,True,Apache License 2.0
+Juriy,Juriy/album,2016-06-24T02:01:41Z,0,0,JavaScript,True,True,
+Juriy,Juriy/blog,2014-05-18T05:55:40Z,2,2,CSS,True,True,
+Juriy,Juriy/camp-demo-12,2020-02-20T19:50:19Z,1,1,,True,True,Other
+Juriy,Juriy/content,2021-02-27T12:23:10Z,0,0,,True,False,Other
+Juriy,Juriy/demos,2015-08-21T00:18:18Z,0,0,JavaScript,True,True,ISC License
+Juriy,Juriy/devops,2017-01-10T09:38:59Z,4,4,,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+Juriy,Juriy/draco,2016-05-03T14:51:09Z,1,1,JavaScript,True,True,ISC License
+Juriy,Juriy/easyio,2016-12-01T07:41:41Z,109,109,JavaScript,True,True,MIT License
+Juriy,Juriy/game-demo,2020-05-30T05:52:53Z,35,35,JavaScript,True,True,
+Juriy,Juriy/gameai,2012-03-14T20:20:27Z,4,4,JavaScript,True,True,
+Juriy,Juriy/gamedev,2017-10-21T09:02:51Z,33,33,JavaScript,True,True,Apache License 2.0
+Juriy,Juriy/gamedev-demos,2016-05-09T06:39:22Z,2,2,JavaScript,True,True,ISC License
+Juriy,Juriy/gitcamp-12,2020-02-12T18:38:18Z,1,1,,True,True,
+Juriy,Juriy/interview,2015-04-23T04:53:06Z,11,11,HTML,True,True,ISC License
+Juriy,Juriy/masterhack,2015-03-21T01:35:05Z,1,1,Java,True,True,ISC License
+Juriy,Juriy/mercury,2015-11-14T04:54:10Z,0,0,JavaScript,True,True,ISC License
+Juriy,Juriy/my-other-page,2021-02-20T16:24:00Z,0,0,CSS,True,True,
+Juriy,Juriy/my-page,2021-02-20T16:06:08Z,0,0,,True,True,MIT License
+Juriy,Juriy/pro-react-redux,2018-09-23T14:06:01Z,757,757,JavaScript,True,True,
+Juriy,Juriy/react-camp,2021-06-25T06:49:11Z,0,0,JavaScript,True,True,
+Juriy,Juriy/react-sandbox,2021-03-27T08:18:00Z,0,0,,True,True,
+Juriy,Juriy/react-sandbox-2,2021-03-27T08:18:14Z,0,0,,True,True,
+Juriy,Juriy/react-sandbox-3,2021-03-27T08:18:47Z,1,1,,True,True,
+Juriy,Juriy/sample-module,2022-09-06T06:57:45Z,0,0,JavaScript,True,True,
+Juriy,Juriy/star-wars-guide,2019-02-14T09:38:43Z,2,2,JavaScript,True,True,
+Juriy,Juriy/swapi,2020-04-12T11:26:21Z,286,286,Python,True,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+Juriy,Juriy/trainings,2015-08-21T00:49:47Z,1,1,HTML,True,True,ISC License
+Juriy,Juriy/webgl-acse,2013-09-18T07:04:28Z,0,0,JavaScript,True,True,
+Juriy,Juriy/xr,2022-05-18T08:05:09Z,0,0,,True,True,Creative Commons Zero v1.0 Universal
+sarlinpe,sarlinpe/.tmux,2020-02-13T13:38:15Z,3,3,,True,False,MIT License
+sarlinpe,sarlinpe/.vim,2017-05-21T03:44:45Z,0,0,Vim Script,True,True,
+sarlinpe,sarlinpe/AWP-Sim,2017-03-24T04:11:04Z,3,3,Matlab,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+sarlinpe,sarlinpe/bond_core,2018-04-29T19:28:32Z,0,0,C++,True,True,
+sarlinpe,sarlinpe/ceres-solver,2024-01-30T08:36:33Z,1,1,,True,False,Other
+sarlinpe,sarlinpe/cgal,2022-01-18T12:55:56Z,0,0,,True,True,Other
+sarlinpe,sarlinpe/Climbing-Alarm-Clock,2017-01-09T10:36:41Z,0,0,C++,True,True,Other
+sarlinpe,sarlinpe/colmap,2021-07-12T16:12:09Z,3,3,C++,True,False,Other
+sarlinpe,sarlinpe/Concrete-Dropout,2017-12-15T08:42:13Z,23,23,Python,True,True,MIT License
+sarlinpe,sarlinpe/Deep-Relocalization,2018-03-16T15:01:54Z,5,5,Python,True,True,
+sarlinpe,sarlinpe/deep_Mahalanobis_detector,2019-04-23T01:29:32Z,0,0,Python,True,True,
+sarlinpe,sarlinpe/eigen_catkin,2018-05-30T11:31:38Z,0,0,CMake,True,True,
+sarlinpe,sarlinpe/Embedded-Bricks-Breaker,2017-03-02T09:24:34Z,0,0,C,False,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+sarlinpe,sarlinpe/GL3D,2020-03-09T17:07:08Z,5,5,,True,True,MIT License
+sarlinpe,sarlinpe/Hand-Joint-Recognition,2018-04-20T09:12:44Z,4,4,Jupyter Notebook,True,True,
+sarlinpe,sarlinpe/Hardware-Neural-Network,2016-11-28T15:20:44Z,17,17,VHDL,True,False,
+sarlinpe,sarlinpe/hfnet,2019-06-12T14:30:20Z,3,3,Python,True,False,MIT License
+sarlinpe,sarlinpe/image-matching-benchmark,2020-04-10T17:28:41Z,4,4,Jupyter Notebook,True,True,Apache License 2.0
+sarlinpe,sarlinpe/kapture-localization,2021-07-17T00:51:32Z,0,0,,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+sarlinpe,sarlinpe/local-feature-evaluation,2024-01-11T13:31:36Z,2,2,,True,True,
+sarlinpe,sarlinpe/local-feature-refinement,2021-03-07T21:08:36Z,0,0,,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+sarlinpe,sarlinpe/maplab,2018-05-08T19:50:57Z,0,0,C++,True,True,Apache License 2.0
+sarlinpe,sarlinpe/models,2019-02-13T16:05:00Z,0,0,Python,True,True,Apache License 2.0
+sarlinpe,sarlinpe/Monitoring,2016-08-08T09:35:20Z,1,1,Python,True,False,Other
+sarlinpe,sarlinpe/nerfstudio,2023-07-11T15:42:36Z,1,1,,True,False,Apache License 2.0
+sarlinpe,sarlinpe/PRisme-ROS,2016-12-06T16:51:41Z,1,1,C++,True,True,
+sarlinpe,sarlinpe/projectaria_tools,2024-04-15T10:36:52Z,1,1,,True,False,Apache License 2.0
+sarlinpe,sarlinpe/protobuf_catkin,2018-05-06T21:06:18Z,0,0,CMake,True,True,
+sarlinpe,sarlinpe/pybind11,2024-10-06T19:34:52Z,0,0,,True,True,Other
+sarlinpe,sarlinpe/pybind11-stubgen,2024-08-19T22:01:52Z,0,0,Python,True,False,Other
+LorenzMeier,LorenzMeier/blackmagic,2012-11-30T00:22:42Z,0,0,C,True,True,GNU General Public License v3.0
+LorenzMeier,LorenzMeier/Devguide,2017-03-26T13:30:17Z,0,0,,True,True,Other
+LorenzMeier,LorenzMeier/dokuwiki-template-mnml-blog,2014-01-06T17:46:18Z,0,0,CSS,True,False,Other
+LorenzMeier,LorenzMeier/dronekit-python,2016-02-23T13:42:10Z,5,5,Python,True,True,Apache License 2.0
+LorenzMeier,LorenzMeier/Fast-RTPS,2017-07-25T06:36:04Z,0,0,C++,True,True,Apache License 2.0
+LorenzMeier,LorenzMeier/gitbook,2015-10-28T12:26:25Z,0,0,JavaScript,True,False,Apache License 2.0
+LorenzMeier,LorenzMeier/homebrew,2014-10-26T11:29:07Z,0,0,,True,True,Other
+LorenzMeier,LorenzMeier/homebrew-deps,2014-10-26T10:56:41Z,0,0,,True,True,
+LorenzMeier,LorenzMeier/homebrew-science,2013-06-07T13:29:00Z,0,0,Ruby,True,True,
+LorenzMeier,LorenzMeier/InertialNav,2013-12-02T10:47:21Z,2,2,C++,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+LorenzMeier,LorenzMeier/libqrencode,2014-12-13T13:19:40Z,0,0,C,True,True,GNU Lesser General Public License v2.1
+LorenzMeier,LorenzMeier/MAVGCL,2016-02-13T20:58:49Z,0,0,Java,True,True,
+LorenzMeier,LorenzMeier/nuttx-autobuild,2014-10-29T06:52:26Z,0,0,Shell,True,True,
+LorenzMeier,LorenzMeier/octomap,2016-01-29T10:42:56Z,0,0,C++,True,True,
+LorenzMeier,LorenzMeier/PedalButtonController,2020-02-27T21:20:49Z,0,0,,True,True,MIT License
+LorenzMeier,LorenzMeier/perfecthashing,2015-06-28T19:07:39Z,0,0,C++,True,False,
+LorenzMeier,LorenzMeier/pymavlink,2020-03-08T19:24:52Z,1,1,,True,True,Other
+LorenzMeier,LorenzMeier/QTerminal,2014-01-09T08:28:13Z,2,2,C++,True,True,GNU General Public License v3.0
+LorenzMeier,LorenzMeier/qupgrade,2013-03-25T21:40:36Z,7,7,C++,True,True,Other
+LorenzMeier,LorenzMeier/rb_webcam,2015-01-14T09:11:57Z,0,0,Ruby,True,True,MIT License
+LorenzMeier,LorenzMeier/rmagick,2015-01-14T21:29:16Z,0,0,C,True,True,MIT License
+LorenzMeier,LorenzMeier/SiK,2014-08-10T15:38:05Z,17,17,C,True,False,"BSD 2-Clause ""Simplified"" License"
+LorenzMeier,LorenzMeier/SimulationKit,2015-07-10T19:37:52Z,2,2,,True,True,
+LorenzMeier,LorenzMeier/smartbib,2015-10-16T17:15:00Z,0,0,TeX,True,True,
+LorenzMeier,LorenzMeier/solodevguide,2015-10-04T11:13:10Z,0,0,CSS,True,True,
+LorenzMeier,LorenzMeier/swig-wx,2012-08-31T15:14:45Z,0,0,C++,True,True,Other
+LorenzMeier,LorenzMeier/tango-examples-c,2015-07-28T13:43:34Z,0,0,C++,True,True,Apache License 2.0
+LorenzMeier,LorenzMeier/tango-examples-java,2015-08-20T11:53:29Z,0,0,Java,True,True,Apache License 2.0
+jwagner,jwagner/addresscloud,2011-10-10T21:50:57Z,11,11,JavaScript,True,True,
+jwagner,jwagner/analog-film-emulator,2015-06-07T12:22:24Z,258,258,JavaScript,True,True,
+jwagner,jwagner/angular.js,2013-08-26T08:19:25Z,1,1,JavaScript,True,True,MIT License
+jwagner,jwagner/bevy,2022-08-14T07:55:10Z,0,0,Rust,True,False,Apache License 2.0
+jwagner,jwagner/bluenoise-rs,2024-03-06T23:59:31Z,2,2,Rust,True,False,MIT License
+jwagner,jwagner/box2d,2023-07-01T13:19:15Z,0,0,,True,False,MIT License
+jwagner,jwagner/box2d2-js,2010-07-31T15:42:00Z,87,87,ActionScript,True,True,
+jwagner,jwagner/box2dlite,2011-10-16T19:36:50Z,3,3,C++,True,True,
+jwagner,jwagner/bvh,2023-05-29T11:14:47Z,0,0,,True,False,MIT License
+jwagner,jwagner/color-thief,2021-06-03T23:37:10Z,2,2,,True,False,MIT License
+jwagner,jwagner/comic.js,2014-12-13T16:30:04Z,3,3,JavaScript,True,True,MIT License
+jwagner,jwagner/cpal,2024-05-12T17:22:10Z,0,0,Rust,True,True,Apache License 2.0
+jwagner,jwagner/darktable,2014-07-29T21:58:11Z,2,2,,True,False,
+jwagner,jwagner/deck.pointer.js,2012-05-23T22:30:08Z,5,5,JavaScript,True,True,
+jwagner,jwagner/dont-crop,2021-06-02T22:44:51Z,139,139,TypeScript,False,False,MIT License
+jwagner,jwagner/eframe_template,2024-04-21T15:44:00Z,1,1,,True,True,Apache License 2.0
+jwagner,jwagner/egui,2024-05-14T16:09:58Z,0,0,,True,True,Apache License 2.0
+jwagner,jwagner/exif-parser,2015-08-14T14:54:32Z,6,6,JavaScript,True,True,MIT License
+jwagner,jwagner/fluidcanvas,2012-11-05T17:46:23Z,14,14,JavaScript,True,True,
+jwagner,jwagner/fluidwebgl,2012-12-15T19:22:40Z,179,179,JavaScript,True,True,
+jwagner,jwagner/Frontendconf-2011,2011-09-12T07:26:16Z,14,14,JavaScript,True,False,
+jwagner,jwagner/geolite2legacy,2020-11-20T15:14:25Z,0,0,,True,True,MIT License
+jwagner,jwagner/gl-matrix,2012-04-09T15:25:40Z,4,4,JavaScript,True,True,zlib License
+jwagner,jwagner/gopro-telemetry,2019-12-07T19:38:23Z,1,1,JavaScript,True,True,MIT License
+jwagner,jwagner/gpmf-extract,2019-12-28T17:50:31Z,2,2,JavaScript,True,True,MIT License
+jwagner,jwagner/guitarTrainer,2014-09-21T13:49:03Z,10,10,JavaScript,True,True,
+jwagner,jwagner/httpripper,2010-06-01T18:23:51Z,35,35,Python,True,False,GNU General Public License v3.0
+jwagner,jwagner/hugo-alabaster-theme,2017-11-22T13:16:01Z,0,0,CSS,True,False,Other
+jwagner,jwagner/jack-pipe,2016-12-01T09:47:34Z,2,2,C,True,True,MIT License
+jwagner,jwagner/jquery.textCloud,2011-11-21T18:57:15Z,12,12,JavaScript,True,True,
+sustrik,sustrik/250bpm,2020-07-21T07:50:21Z,2,2,HTML,True,True,
+sustrik,sustrik/bazel-gazelle,2022-09-26T09:22:44Z,0,0,,True,True,Apache License 2.0
+sustrik,sustrik/bsd-socket-revamp,2018-04-03T08:25:46Z,3,3,JavaScript,True,True,
+sustrik,sustrik/cartesian,2017-04-23T08:08:50Z,98,98,JavaScript,True,False,
+sustrik,sustrik/crypto-for-kids,2016-12-29T17:32:21Z,259,259,HTML,True,True,
+sustrik,sustrik/dsock,2015-12-31T22:02:24Z,82,82,C,True,True,Other
+sustrik,sustrik/flowium,2018-07-21T00:34:09Z,3,3,HTML,False,False,MIT License
+sustrik,sustrik/flowium-sandbox,2018-08-01T01:53:16Z,0,0,,True,True,
+sustrik,sustrik/grison,2020-09-19T06:56:43Z,6,6,Go,True,True,MIT License
+sustrik,sustrik/igor,2021-06-12T10:07:40Z,11,11,Go,True,True,MIT License
+sustrik,sustrik/libdill,2016-01-16T06:46:15Z,1689,1689,C,True,True,MIT License
+sustrik,sustrik/libmill,2014-04-29T07:25:22Z,2739,2739,C,True,False,MIT License
+sustrik,sustrik/msg_control,2014-11-09T05:33:07Z,9,9,C,True,True,
+sustrik,sustrik/os-scion,2024-02-12T07:52:51Z,2,2,,True,True,Apache License 2.0
+sustrik,sustrik/ribosome,2014-04-04T05:56:57Z,248,248,JavaScript,True,False,
+sustrik,sustrik/su-exec,2019-03-19T12:49:30Z,2,2,C,True,True,MIT License
+sustrik,sustrik/tcpmux,2015-08-15T16:10:07Z,99,99,C,True,True,MIT License
+sustrik,sustrik/tiles,2017-10-01T09:25:28Z,84,84,Python,True,True,
+sustrik,sustrik/uxy,2019-05-18T08:14:22Z,699,699,Python,True,True,MIT License
+sustrik,sustrik/vault,2022-09-27T13:43:53Z,0,0,,True,False,Mozilla Public License 2.0
+sustrik,sustrik/vhs,2019-07-11T14:14:52Z,0,0,HTML,True,True,
+sustrik,sustrik/vpp,2020-09-01T10:37:23Z,0,0,,True,False,Apache License 2.0
+sustrik,sustrik/yaml,2021-05-30T05:02:47Z,0,0,Go,True,False,Apache License 2.0
+sustrik,sustrik/zeromq1,2012-12-08T19:41:29Z,2,2,C++,True,False,GNU Lesser General Public License v3.0
+jaspervdj,jaspervdj/acme-cofunctor,2014-11-28T16:21:52Z,15,15,Haskell,True,True,Other
+jaspervdj,jaspervdj/advent-of-code,2017-12-26T17:10:40Z,9,9,Haskell,True,True,
+jaspervdj,jaspervdj/AstroBot,2009-11-16T19:22:04Z,2,2,C++,True,True,
+jaspervdj,jaspervdj/automatic-octo-spork,2017-04-12T19:57:29Z,0,0,Shell,True,True,
+jaspervdj,jaspervdj/b-tree,2011-08-20T13:34:45Z,12,12,Haskell,True,True,Other
+jaspervdj,jaspervdj/beeraffe,2019-02-08T12:28:02Z,42,42,PureScript,False,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+jaspervdj,jaspervdj/bestphotoblog,2016-09-02T08:11:06Z,2,2,Haskell,True,True,
+jaspervdj,jaspervdj/blaze-builder,2010-12-04T15:54:32Z,2,2,Haskell,True,True,Other
+jaspervdj,jaspervdj/blaze-from-html,2017-01-20T01:04:26Z,6,6,Haskell,True,True,Other
+jaspervdj,jaspervdj/blaze-html,2010-03-13T17:12:35Z,242,242,Haskell,True,True,Other
+jaspervdj,jaspervdj/blaze-html-hexpat,2010-12-24T09:45:12Z,6,6,Haskell,True,True,Other
+jaspervdj,jaspervdj/blaze-markup,2012-04-03T14:58:31Z,22,22,Haskell,True,False,Other
+jaspervdj,jaspervdj/burningwheelstour.ch,2016-11-29T10:36:37Z,1,1,HTML,True,True,
+jaspervdj,jaspervdj/bzlib,2020-01-27T12:37:51Z,0,0,C,True,True,Other
+jaspervdj,jaspervdj/cabal,2024-09-05T09:29:22Z,0,0,,True,True,Other
+jaspervdj,jaspervdj/cabal-dependency-licenses,2014-09-17T10:50:50Z,28,28,Haskell,True,True,Other
+jaspervdj,jaspervdj/cdp-hs,2022-10-08T09:48:18Z,0,0,Haskell,True,True,
+jaspervdj,jaspervdj/ChatHammer-9000,2021-12-20T15:04:39Z,0,0,,True,False,
+jaspervdj,jaspervdj/commercialhaskell,2015-01-23T21:10:33Z,0,0,,True,True,
+jaspervdj,jaspervdj/copypasta,2010-02-02T09:00:54Z,4,4,Java,True,True,
+jaspervdj,jaspervdj/criterion-to-html,2011-06-09T08:47:07Z,2,2,Haskell,True,True,Other
+jaspervdj,jaspervdj/data-default,2013-03-07T12:11:44Z,0,0,Haskell,True,True,Other
+jaspervdj,jaspervdj/data-object-json,2011-03-14T09:00:14Z,2,2,Haskell,True,True,Other
+jaspervdj,jaspervdj/data-object-yaml,2011-03-14T08:49:08Z,1,1,Haskell,True,True,Other
+jaspervdj,jaspervdj/dcpu-asm,2012-04-07T20:48:18Z,1,1,,True,True,MIT License
+jaspervdj,jaspervdj/dcpu16-hs,2012-04-06T11:40:53Z,42,42,Haskell,True,True,Other
+jaspervdj,jaspervdj/diagrams-solve,2020-04-26T15:31:25Z,0,0,,True,True,Other
+jaspervdj,jaspervdj/dictionary-of-colour-combinations,2024-04-27T14:04:01Z,0,0,,True,True,MIT License
+jaspervdj,jaspervdj/digestive-functors,2010-10-02T12:01:57Z,150,150,Haskell,True,False,
+jaspervdj,jaspervdj/dir-metadata,2011-08-30T18:01:00Z,1,1,Haskell,True,True,Other
+lsmith77,lsmith77/active-directory-b2c-custom-policy-starterpack,2022-09-13T19:39:08Z,0,0,,True,True,MIT License
+lsmith77,lsmith77/aiohttp,2022-10-26T14:55:36Z,0,0,,True,False,Other
+lsmith77,lsmith77/airsonos,2016-10-25T17:18:14Z,6,6,JavaScript,True,True,MIT License
+lsmith77,lsmith77/AppBundle,2016-02-15T09:29:51Z,0,0,PHP,True,True,
+lsmith77,lsmith77/APYJsFormValidationBundle,2013-09-17T20:48:30Z,0,0,PHP,True,False,MIT License
+lsmith77,lsmith77/AzureADB2C,2022-03-04T16:31:34Z,0,0,,True,True,
+lsmith77,lsmith77/babel,2022-10-26T14:48:16Z,0,0,,True,False,Other
+lsmith77,lsmith77/backyourstack,2020-07-13T09:47:32Z,0,0,,True,False,MIT License
+lsmith77,lsmith77/BazingaExposeTranslationBundle,2013-09-18T06:33:29Z,0,0,JavaScript,True,False,
+lsmith77,lsmith77/beacon,2020-02-29T09:01:57Z,0,0,,True,False,Apache License 2.0
+lsmith77,lsmith77/berlinphp.github.com,2012-07-26T10:52:20Z,1,1,JavaScript,True,True,
+lsmith77,lsmith77/BeSimpleSoap,2013-09-18T11:15:50Z,1,1,PHP,True,False,
+lsmith77,lsmith77/BeSimpleSoapBundle,2013-09-18T08:48:36Z,0,0,PHP,True,False,
+lsmith77,lsmith77/BeSimpleSoapClient,2013-09-18T11:18:17Z,0,0,PHP,True,False,
+lsmith77,lsmith77/BeSimpleSoapCommon,2013-09-18T11:15:27Z,0,0,PHP,True,False,
+lsmith77,lsmith77/cashier,2020-03-21T20:37:39Z,0,0,,True,False,MIT License
+lsmith77,lsmith77/CheckBundles,2013-10-08T12:59:38Z,0,0,PHP,True,True,MIT License
+lsmith77,lsmith77/choosealicense.com,2014-07-29T14:19:50Z,0,0,,True,False,MIT License
+lsmith77,lsmith77/cmf-sandbox,2013-09-04T06:16:15Z,0,0,CSS,True,False,Other
+lsmith77,lsmith77/coc,2019-03-24T13:22:34Z,0,0,,True,True,
+lsmith77,lsmith77/code-generator,2018-06-15T11:20:55Z,0,0,PHP,True,False,MIT License
+lsmith77,lsmith77/common,2012-09-13T14:04:20Z,0,0,PHP,True,True,MIT License
+lsmith77,lsmith77/conference-diversity-and-inclusion,2018-10-31T12:39:47Z,0,0,,True,False,Other
+lsmith77,lsmith77/createphp,2013-01-14T17:35:08Z,0,0,PHP,True,True,GNU Lesser General Public License v3.0
+lsmith77,lsmith77/crm,2013-09-17T11:46:08Z,0,0,PHP,True,True,Other
+lsmith77,lsmith77/crm-application,2013-11-21T18:20:34Z,0,0,PHP,True,False,Other
+lsmith77,lsmith77/cython-blis,2022-10-26T20:05:44Z,0,0,,True,False,Other
+lsmith77,lsmith77/dashboard,2013-03-26T19:48:31Z,0,0,PHP,True,True,
+lsmith77,lsmith77/dbal,2012-11-15T10:29:21Z,0,0,PHP,True,False,MIT License
+lsmith77,lsmith77/dbal-documentation,2012-09-23T19:47:00Z,0,0,Python,True,True,
+cvg,cvg/asctec_mav_framework,2013-09-02T19:39:04Z,1,1,C,True,True,
+cvg,cvg/crocodile,2024-06-13T07:33:48Z,0,0,,True,True,
+cvg,cvg/CVG-Thesis-Template,2024-03-08T13:15:47Z,0,0,TeX,True,False,
+cvg,cvg/DeepLSD,2022-11-28T13:11:23Z,494,494,Jupyter Notebook,True,True,MIT License
+cvg,cvg/depthsplat,2024-10-17T21:30:02Z,590,590,Python,True,False,MIT License
+cvg,cvg/EMAP,2024-05-29T02:51:27Z,164,164,Python,True,True,MIT License
+cvg,cvg/ethzasl_sensor_fusion,2014-01-20T13:05:42Z,2,2,C++,True,True,
+cvg,cvg/GeoCalib,2024-09-05T09:35:30Z,482,482,Python,True,False,Apache License 2.0
+cvg,cvg/glace,2024-06-06T07:43:55Z,77,77,Python,True,False,Other
+cvg,cvg/glue-factory,2023-10-05T14:50:04Z,784,784,Python,False,False,Apache License 2.0
+cvg,cvg/GlueStick,2023-04-03T08:19:25Z,571,571,Jupyter Notebook,True,False,MIT License
+cvg,cvg/Grounded-Segment-Anything,2023-10-20T11:12:31Z,1,1,Jupyter Notebook,True,False,Apache License 2.0
+cvg,cvg/Hierarchical-Localization,2020-07-16T07:25:35Z,3261,3261,Python,False,False,Apache License 2.0
+cvg,cvg/hololens_ros,2022-11-16T08:05:00Z,14,14,C#,True,True,MIT License
+cvg,cvg/implicit_dist,2022-06-23T06:24:07Z,24,24,C++,True,True,
+cvg,cvg/LabelMaker,2023-02-08T13:26:07Z,58,58,Jupyter Notebook,False,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+cvg,cvg/LightGlue,2023-06-25T09:39:51Z,3474,3474,Python,True,False,Apache License 2.0
+cvg,cvg/limap,2023-03-21T14:36:11Z,718,718,C++,True,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+cvg,cvg/maplab,2023-04-25T13:37:01Z,0,0,,True,True,Apache License 2.0
+cvg,cvg/maplab_msgs,2022-11-14T03:40:32Z,0,0,,True,False,Apache License 2.0
+cvg,cvg/maplab_tools,2022-10-13T11:59:11Z,0,0,Jupyter Notebook,True,True,
+cvg,cvg/Mask3D,2023-10-05T12:15:54Z,56,56,Python,True,True,MIT License
+cvg,cvg/mav_active_3d_planning,2023-04-26T15:17:21Z,2,2,C++,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+cvg,cvg/nerf-on-the-go,2024-05-29T02:45:57Z,167,167,Python,True,True,Apache License 2.0
+cvg,cvg/nice-slam,2022-03-28T08:13:41Z,1450,1450,Python,True,True,Apache License 2.0
+cvg,cvg/nicer-slam,2024-03-18T22:45:50Z,163,163,Python,True,True,Apache License 2.0
+cvg,cvg/NoPoSplat,2024-10-28T21:13:54Z,544,544,Python,True,True,MIT License
+cvg,cvg/OnePose_Plus_Plus_Spot,2023-06-27T12:24:53Z,0,0,Python,True,True,Apache License 2.0
+cvg,cvg/open3d-manylinux2014,2023-10-21T08:08:44Z,1,1,,True,True,
+cvg,cvg/pcdmeshing,2022-01-17T09:55:30Z,39,39,C++,True,True,Apache License 2.0
+videlalvaro,videlalvaro/2015,2015-04-01T15:02:50Z,0,0,Erlang,True,False,
+videlalvaro,videlalvaro/apache-jackrabbit-chef-cookbook,2012-07-19T11:43:29Z,1,1,Ruby,True,True,
+videlalvaro,videlalvaro/aspnetboilerplate,2021-03-22T10:43:40Z,0,0,C#,True,False,MIT License
+videlalvaro,videlalvaro/avRedisLoggerPlugin,2010-02-10T12:14:15Z,2,2,PHP,True,True,Other
+videlalvaro,videlalvaro/azserverless,2020-11-16T21:54:50Z,18,18,PHP,True,True,MIT License
+videlalvaro,videlalvaro/azure-database,2019-09-16T12:09:08Z,0,0,TypeScript,True,True,MIT License
+videlalvaro,videlalvaro/azure-functions-php-worker-sample,2020-11-16T22:02:25Z,5,5,Shell,True,True,MIT License
+videlalvaro,videlalvaro/azure-service-bus-emulator-installer,2024-11-19T21:46:59Z,0,0,,True,True,MIT License
+videlalvaro,videlalvaro/berlinphp.github.com,2015-01-26T18:20:08Z,0,0,JavaScript,True,True,
+videlalvaro,videlalvaro/bitcask_wrapper,2011-10-12T15:38:33Z,2,2,,True,True,
+videlalvaro,videlalvaro/claude,2012-09-07T12:39:29Z,12,12,Clojure,True,True,Other
+videlalvaro,videlalvaro/cljcr,2011-10-05T20:12:51Z,1,1,Clojure,True,True,
+videlalvaro,videlalvaro/clochure,2013-03-31T19:56:19Z,86,86,Java,True,True,
+videlalvaro,videlalvaro/closerl,2010-08-07T04:14:53Z,23,23,Clojure,True,True,MIT License
+videlalvaro,videlalvaro/cloud-developer-advocates,2019-04-05T11:22:34Z,0,0,PowerShell,True,False,Creative Commons Attribution 4.0 International
+videlalvaro,videlalvaro/cloudfoundry-clojure-demo,2012-09-19T17:16:39Z,8,8,Clojure,True,True,Other
+videlalvaro,videlalvaro/cloudfoundry-octopress,2012-09-26T13:31:30Z,12,12,Ruby,True,True,Other
+videlalvaro,videlalvaro/cloudstagram,2013-07-29T12:06:20Z,34,34,JavaScript,True,True,Other
+videlalvaro,videlalvaro/connstring_to_amqp,2020-06-18T22:09:09Z,1,1,HTML,True,True,
+videlalvaro,videlalvaro/dapr,2021-03-22T14:13:34Z,0,0,,True,False,MIT License
+videlalvaro,videlalvaro/docs,2021-09-22T11:38:16Z,0,0,,True,False,MIT License
+videlalvaro,videlalvaro/eleveldb_wrapper,2011-10-27T11:36:53Z,1,1,Makefile,True,True,
+videlalvaro,videlalvaro/elixir_wrapper,2013-06-02T11:28:43Z,8,8,,True,True,
+videlalvaro,videlalvaro/Enable-Sites,2011-03-17T14:15:43Z,4,4,Shell,True,True,MIT License
+videlalvaro,videlalvaro/erlang-prime-sieve,2014-02-16T11:57:20Z,37,37,Erlang,True,True,
+videlalvaro,videlalvaro/erlang.mk,2015-11-18T13:54:07Z,0,0,Makefile,True,False,ISC License
+videlalvaro,videlalvaro/erlang_credis,2010-03-13T10:15:37Z,3,3,C,True,True,
+videlalvaro,videlalvaro/fabric-cards,2023-11-09T19:46:40Z,0,0,HTML,True,True,
+videlalvaro,videlalvaro/fabric-kafka-sample,2023-09-05T17:56:21Z,3,3,Java,True,False,Other
+videlalvaro,videlalvaro/Fabric-Readiness,2023-09-15T00:14:49Z,0,0,,True,True,Creative Commons Attribution 4.0 International
+filipw,filipw/2018-ndcoslo-demos,2018-05-20T10:38:18Z,16,16,C#,True,True,MIT License
+filipw,filipw/2018-switzerland-netday-demos,2018-05-20T06:40:04Z,0,0,JavaScript,True,True,MIT License
+filipw,filipw/2019-dotnetcologne-demos,2019-04-25T15:16:52Z,1,1,JavaScript,True,True,MIT License
+filipw,filipw/2019-flashcon-demos,2019-12-10T19:17:09Z,1,1,C#,True,True,MIT License
+filipw,filipw/2019-ndcporto-demos,2019-01-18T11:14:02Z,2,2,C#,True,True,MIT License
+filipw,filipw/2019-switzerland-netday-demos,2019-05-20T12:45:19Z,1,1,C#,True,True,MIT License
+filipw,filipw/2019-techsummit-demos,2019-03-26T20:42:49Z,0,0,C#,True,True,
+filipw,filipw/2020-bastaspring-demos,2020-02-17T14:48:48Z,0,0,C#,True,True,MIT License
+filipw,filipw/2020-swetugg-demos,2020-01-09T08:21:15Z,3,3,C#,True,True,MIT License
+filipw,filipw/2021-bastafall-demos,2021-08-25T20:11:47Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2021-bastaspring-demos,2021-01-29T15:50:02Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2021-geneva-net-ug-demos,2021-11-12T15:55:58Z,1,1,Q#,True,True,MIT License
+filipw,filipw/2021-zurich-net-ug-demos,2021-04-15T18:18:02Z,1,1,Q#,True,True,MIT License
+filipw,filipw/2022-dotnetday-demos,2022-08-15T10:55:26Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2022-ndcporto-demos,2022-04-13T13:30:37Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2022-techorama-demos,2022-05-12T15:02:25Z,1,1,Q#,True,True,MIT License
+filipw,filipw/2022-zurich-azure-ug-demos,2022-11-13T14:48:32Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2023-azurebootcamp-demos,2023-05-01T05:47:42Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2023-bastaspring-demos,2023-02-20T06:38:22Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2023-dotnetday-demos,2023-08-13T05:39:32Z,1,1,Q#,True,True,MIT License
+filipw,filipw/2023-ndclondon-demos,2023-01-08T14:56:33Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2023-ndcoslo-demos,2023-05-17T05:55:19Z,1,1,Q#,True,True,MIT License
+filipw,filipw/2023-ndcporto-demos,2023-10-03T14:40:34Z,0,0,Q#,True,True,MIT License
+filipw,filipw/2024-azure-bootcamp-demos,2024-05-05T09:39:23Z,1,1,Python,True,True,
+filipw,filipw/2024-msft-build-ai-day-demos,2024-05-02T18:31:35Z,1,1,Python,True,True,
+filipw,filipw/2024-ndcporto-demos,2024-10-06T06:25:42Z,0,0,Python,True,True,MIT License
+filipw,filipw/2024-zurich-azure-ug-demos,2023-12-21T12:46:15Z,4,4,C#,True,True,MIT License
+filipw,filipw/AI-Agentic-Design-Patterns-with-AutoGen.Net,2024-09-07T13:39:58Z,0,0,,True,True,MIT License
+filipw,filipw/aistudio-python-promptflow-sample,2024-03-14T09:04:32Z,0,0,,True,True,MIT License
+filipw,filipw/apress-recipes-webapi,2014-07-29T10:55:45Z,335,335,C#,True,True,Apache License 2.0
+SimonHoiberg,SimonHoiberg/ai-chat-website,2024-07-30T12:33:55Z,1,1,TypeScript,True,True,MIT License
+SimonHoiberg,SimonHoiberg/awesome-ai-tools,2024-07-12T04:01:09Z,3,3,,True,True,
+SimonHoiberg,SimonHoiberg/awesome-generative-ai,2024-07-12T04:04:47Z,3,3,,True,True,Creative Commons Zero v1.0 Universal
+SimonHoiberg,SimonHoiberg/awesome-saas-boilerplates,2022-09-18T03:18:55Z,4,4,,True,True,
+SimonHoiberg,SimonHoiberg/create-react-web-component,2019-08-03T20:43:16Z,43,43,TypeScript,True,True,MIT License
+SimonHoiberg,SimonHoiberg/direflow-lit-example,2020-06-12T18:54:14Z,0,0,JavaScript,True,True,
+SimonHoiberg,SimonHoiberg/gatsby-theme-apollo,2020-06-06T21:07:41Z,0,0,,True,True,MIT License
+SimonHoiberg,SimonHoiberg/Hue-Debugger-UI,2018-09-26T20:29:04Z,214,214,TypeScript,True,True,MIT License
+SimonHoiberg,SimonHoiberg/react-login-modal-sm,2018-06-12T12:58:53Z,33,33,JavaScript,True,True,
+SimonHoiberg,SimonHoiberg/reactjs.org,2020-01-15T19:43:21Z,0,0,JavaScript,True,False,Creative Commons Attribution 4.0 International
+SimonHoiberg,SimonHoiberg/restater,2020-07-30T17:39:40Z,41,41,TypeScript,True,True,MIT License
+SimonHoiberg,SimonHoiberg/saas-template,2022-01-08T07:47:16Z,772,772,TypeScript,True,True,MIT License
+SimonHoiberg,SimonHoiberg/SimonHoiberg,2020-11-17T04:25:06Z,4,4,,True,True,
+SimonHoiberg,SimonHoiberg/snappify-integration,2022-12-23T14:32:45Z,0,0,,True,True,MIT License
+SimonHoiberg,SimonHoiberg/text-resource-manager,2019-07-05T15:54:39Z,9,9,TypeScript,True,True,MIT License
+SimonHoiberg,SimonHoiberg/tslint-config-silind,2019-07-03T08:26:01Z,11,11,TypeScript,True,True,MIT License
+SimonHoiberg,SimonHoiberg/twitter-winner-picker,2020-08-14T19:53:06Z,31,31,TypeScript,True,True,
+SimonHoiberg,SimonHoiberg/use-scroll-display,2020-02-28T14:47:24Z,2,2,TypeScript,True,True,
+SimonHoiberg,SimonHoiberg/Youtubers,2020-08-23T05:29:12Z,3,3,,True,True,
+FujiwaraChoki,FujiwaraChoki/a00-repo,2023-12-13T13:06:18Z,0,0,JavaScript,True,True,
+FujiwaraChoki,FujiwaraChoki/ai_api,2023-11-02T08:24:44Z,4,4,Python,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/Assembly,2022-09-17T20:03:53Z,0,0,Assembly,True,True,
+FujiwaraChoki,FujiwaraChoki/astro.conv,2023-04-24T18:28:11Z,4,4,JavaScript,True,True,
+FujiwaraChoki,FujiwaraChoki/astrophysics,2024-05-06T20:33:51Z,0,0,C,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/auto-llm,2024-03-14T22:07:20Z,11,11,Python,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/AutoReach,2023-07-07T17:08:26Z,5,5,JavaScript,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/autotest,2023-05-31T11:46:53Z,1,1,JavaScript,True,True,
+FujiwaraChoki,FujiwaraChoki/BackgroundChanger,2022-10-16T14:31:19Z,1,1,Python,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/Bash-Emulator-CPP,2022-11-18T19:19:29Z,0,0,C++,True,True,
+FujiwaraChoki,FujiwaraChoki/BeatLounge,2023-01-29T20:56:42Z,1,1,JavaScript,True,True,GNU General Public License v3.0
+FujiwaraChoki,FujiwaraChoki/blog,2023-01-14T10:08:47Z,1,1,JavaScript,True,False,MIT License
+FujiwaraChoki,FujiwaraChoki/BlxdMoon,2023-12-27T16:34:47Z,25,25,Shell,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/BP,2022-11-18T20:06:55Z,0,0,C++,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/buddy,2024-09-15T08:27:10Z,9,9,Python,True,False,MIT License
+FujiwaraChoki,FujiwaraChoki/BytrixLang,2022-12-11T19:47:43Z,5,5,C++,True,True,GNU General Public License v3.0
+FujiwaraChoki,FujiwaraChoki/CiviConquest,2023-08-28T18:57:52Z,1,1,Python,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/clipper-app,2023-09-06T17:50:32Z,1,1,JavaScript,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/CloudCollage,2023-06-27T07:12:17Z,1,1,HTML,True,True,
+FujiwaraChoki,FujiwaraChoki/CloudHaven,2023-02-01T14:07:12Z,2,2,JavaScript,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/CoinWizard,2023-08-23T20:28:58Z,12,12,Python,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/ColorToHex,2022-02-21T16:37:44Z,0,0,Java,True,True,
+FujiwaraChoki,FujiwaraChoki/Connectify,2023-02-28T18:18:07Z,1,1,JavaScript,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/countrymeter,2023-03-06T21:15:34Z,1,1,JavaScript,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/cowork-space-spring,2024-07-10T08:08:44Z,1,1,Java,True,True,
+FujiwaraChoki,FujiwaraChoki/CPP-Course,2022-10-26T05:40:22Z,1,1,C++,True,True,MIT License
+FujiwaraChoki,FujiwaraChoki/ezgpt,2023-01-19T20:03:19Z,2,2,JavaScript,True,True,
+FujiwaraChoki,FujiwaraChoki/FaceFilterPython,2022-02-17T15:47:30Z,3,3,Python,True,True,
+FujiwaraChoki,FujiwaraChoki/fitspark,2023-06-30T18:05:03Z,2,2,JavaScript,True,True,
+FujiwaraChoki,FujiwaraChoki/Flash,2022-09-30T16:24:16Z,1,1,Python,True,True,MIT License
+sandy081,sandy081/angular-extension-pack,2018-08-15T08:12:14Z,0,0,,True,True,MIT License
+sandy081,sandy081/angular-extension-pack-vsce,2018-08-15T08:21:32Z,0,0,,True,True,MIT License
+sandy081,sandy081/asp-net-core-vs-code-extension-pack,2018-08-15T08:31:01Z,0,0,,True,True,
+sandy081,sandy081/azure-sample-web-app,2017-02-13T14:53:27Z,0,0,Shell,True,True,
+sandy081,sandy081/codespaces-in-codespaces,2020-09-11T05:23:31Z,0,0,,True,True,
+sandy081,sandy081/codeswing,2021-09-01T15:22:58Z,0,0,TypeScript,True,False,MIT License
+sandy081,sandy081/codetour,2021-09-01T14:56:09Z,1,1,TypeScript,True,False,MIT License
+sandy081,sandy081/configuration-sync-sample,2019-09-12T06:16:40Z,1,1,TypeScript,True,True,
+sandy081,sandy081/Copy-Work-Items,2015-03-09T17:14:05Z,3,3,Java,True,True,MIT License
+sandy081,sandy081/CQL-Search,2016-03-05T10:19:00Z,0,0,JavaScript,True,True,
+sandy081,sandy081/docker-vscode,2016-08-16T10:49:05Z,0,0,,True,True,
+sandy081,sandy081/Flutter,2018-08-15T08:06:17Z,0,0,,True,False,MIT License
+sandy081,sandy081/gh-static-e2e,2020-12-02T14:05:47Z,0,0,,True,True,
+sandy081,sandy081/gistpad,2020-06-26T08:52:20Z,0,0,TypeScript,True,True,MIT License
+sandy081,sandy081/git,2021-03-22T21:35:38Z,0,0,,True,False,Other
+sandy081,sandy081/git-extension-pack,2018-08-15T08:17:54Z,2,2,,True,True,MIT License
+sandy081,sandy081/golang-vscode,2016-08-16T10:54:07Z,0,0,Shell,True,True,MIT License
+sandy081,sandy081/heaths.github.io,2020-09-30T08:10:15Z,0,0,,True,False,Other
+sandy081,sandy081/hyperterm,2016-10-03T18:25:22Z,0,0,JavaScript,True,False,MIT License
+sandy081,sandy081/impress.js,2016-03-07T17:34:33Z,0,0,JavaScript,True,True,MIT License
+sandy081,sandy081/ionic-extension-pack-vsce,2018-08-15T08:24:06Z,0,0,,True,True,
+sandy081,sandy081/iTerm2-Color-Schemes,2016-10-06T06:48:25Z,0,0,,True,True,
+sandy081,sandy081/laravel-extension-pack-vscode,2018-08-15T08:23:08Z,0,0,,True,True,MIT License
+sandy081,sandy081/mocha-sidebar,2018-05-08T17:42:00Z,0,0,JavaScript,True,True,MIT License
+sandy081,sandy081/net-core-starters-pack,2018-08-15T08:31:44Z,1,1,,True,True,MIT License
+sandy081,sandy081/netcore-extension-pack,2018-08-15T08:29:57Z,0,0,,True,True,MIT License
+sandy081,sandy081/node-spdlog,2017-11-28T20:28:21Z,0,0,CMake,True,True,MIT License
+sandy081,sandy081/nodejs-extension-pack,2018-08-15T08:15:41Z,0,0,,True,True,MIT License
+sandy081,sandy081/pyright,2020-09-22T10:24:43Z,0,0,,True,True,Other
+sandy081,sandy081/python-extension-pack,2018-08-15T07:59:06Z,0,0,,True,True,MIT License
+mhils,mhils/adbutils,2022-12-13T16:55:16Z,0,0,,True,True,MIT License
+mhils,mhils/add-pr-ref-in-changelog,2022-11-09T17:03:12Z,0,0,Python,True,True,MIT License
+mhils,mhils/aioquic,2022-11-06T21:11:21Z,0,0,Python,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+mhils,mhils/animated-curves,2022-06-23T22:11:06Z,0,0,,True,True,
+mhils,mhils/arbtt,2018-02-21T01:58:02Z,0,0,Haskell,True,False,GNU General Public License v2.0
+mhils,mhils/arxiv.py,2021-05-30T13:24:44Z,0,0,,True,True,MIT License
+mhils,mhils/asgiref,2021-08-02T14:25:59Z,0,0,,True,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+mhils,mhils/autofixer,2022-09-30T10:53:20Z,0,0,Go,True,True,
+mhils,mhils/awesome-for-beginners,2015-11-11T18:43:37Z,0,0,,True,True,
+mhils,mhils/backbone,2012-06-19T20:04:44Z,2,2,JavaScript,True,True,MIT License
+mhils,mhils/backports.socketpair,2015-08-07T14:23:50Z,2,2,Python,True,True,
+mhils,mhils/BDFProxy,2014-12-18T00:12:54Z,0,0,Python,True,True,
+mhils,mhils/better-codecov-action,2023-01-02T17:32:40Z,1,1,,True,True,
+mhils,mhils/bingo,2022-08-30T22:38:03Z,0,0,JavaScript,False,False,
+mhils,mhils/catawampus,2017-02-28T13:31:31Z,1,1,Python,True,True,Apache License 2.0
+mhils,mhils/cffi-repro,2023-11-12T18:16:29Z,0,0,Shell,True,True,
+mhils,mhils/check_typedpkg,2022-05-02T15:55:09Z,0,0,,True,True,
+mhils,mhils/chroma,2018-02-24T20:07:05Z,0,0,Go,True,True,MIT License
+mhils,mhils/chrome-proxy,2014-09-14T11:16:39Z,0,0,JavaScript,True,True,MIT License
+mhils,mhils/ci-test,2023-10-02T09:57:57Z,0,0,,True,True,
+mhils,mhils/click-completion,2019-10-18T22:41:19Z,1,1,,True,True,MIT License
+mhils,mhils/clint,2013-01-22T10:20:20Z,0,0,Python,True,False,ISC License
+mhils,mhils/cloud-to-moon,2013-04-29T22:58:28Z,0,0,JavaScript,True,True,
+mhils,mhils/CodeMirror,2012-12-30T22:22:18Z,0,0,JavaScript,True,True,Other
+mhils,mhils/colorama,2015-09-11T14:05:07Z,0,0,Python,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
+mhils,mhils/countershape,2015-07-21T11:19:04Z,0,0,Python,True,True,Other
+mhils,mhils/cpython,2017-02-14T22:02:43Z,0,0,Python,True,False,Other
+mhils,mhils/cryptography,2022-01-06T15:57:37Z,0,0,,True,False,Other
+mhils,mhils/cuckoo,2018-02-01T08:33:43Z,0,0,JavaScript,True,True,
+mhils,mhils/curl,2015-09-02T15:46:38Z,0,0,C,True,True,Other
+decanus,decanus/aoc,2019-12-01T20:26:22Z,1,1,Go,True,True,MIT License
+decanus,decanus/array,2023-01-12T15:00:58Z,8,8,Go,True,True,Apache License 2.0
+decanus,decanus/artemis,2019-07-04T15:04:59Z,0,0,Java,True,True,Apache License 2.0
+decanus,decanus/audit-check,2020-04-03T10:39:30Z,0,0,,True,False,MIT License
+decanus,decanus/audits,2017-10-18T12:12:02Z,3,3,,True,True,
+decanus,decanus/avash,2020-03-11T21:39:51Z,0,0,Go,True,True,
+decanus,decanus/awesome-secure-messaging,2019-03-09T01:13:14Z,0,0,,True,True,
+decanus,decanus/blockparty,2018-08-30T20:41:55Z,0,0,JavaScript,True,True,MIT License
+decanus,decanus/blog,2020-05-21T11:07:38Z,0,0,,True,False,"BSD 3-Clause ""New"" or ""Revised"" License"
+decanus,decanus/bureka,2020-05-04T15:54:55Z,12,12,Go,True,True,MIT License
+decanus,decanus/bybit,2024-02-28T09:29:44Z,0,0,Go,True,True,MIT License
+decanus,decanus/chainlist,2024-01-26T17:17:21Z,0,0,TypeScript,True,True,MIT License
+decanus,decanus/cobra,2022-12-07T17:06:25Z,0,0,Go,True,True,Apache License 2.0
+decanus,decanus/contract-account,2018-06-17T10:32:07Z,1,1,Solidity,True,False,GNU General Public License v3.0
+decanus,decanus/dean.eigenmann.me,2018-07-12T21:49:05Z,4,4,Ruby,True,True,MIT License
+decanus,decanus/decanus,2020-07-10T11:31:35Z,0,0,,True,True,
+decanus,decanus/decimal,2023-09-25T15:20:52Z,0,0,Go,True,True,Other
+decanus,decanus/devp2p,2020-02-28T14:45:42Z,0,0,JavaScript,True,True,
+decanus,decanus/dns-discovery,2020-01-15T19:57:20Z,2,2,Go,True,True,Apache License 2.0
+decanus,decanus/docs,2024-03-20T19:19:19Z,0,0,,True,True,
+decanus,decanus/DrawerView,2020-07-29T22:41:30Z,0,0,,True,True,MIT License
+decanus,decanus/dynamic-vault,2018-03-08T02:21:28Z,9,9,Solidity,False,False,GNU General Public License v3.0
+decanus,decanus/eigenmann.me,2015-09-05T13:49:04Z,1,1,HTML,True,True,
+decanus,decanus/EIPs,2017-10-30T18:15:28Z,0,0,,True,True,
+decanus,decanus/ens-usernames,2020-02-12T15:47:55Z,0,0,,True,True,
+decanus,decanus/eth2.0-APIs,2020-05-14T09:32:49Z,0,0,,True,True,Creative Commons Zero v1.0 Universal
+decanus,decanus/eth2.0-pm,2019-01-25T18:28:09Z,0,0,,True,True,Other
+decanus,decanus/eth2.0-specs,2019-01-16T19:33:27Z,1,1,,True,True,
+decanus,decanus/ethereumbook,2018-02-23T00:35:11Z,1,1,Jupyter Notebook,True,False,Other
+decanus,decanus/ethhub,2019-01-18T20:27:01Z,0,0,,True,True,Other
+simonaco,simonaco/.not-quite-dotfiles,2017-03-23T16:04:36Z,0,0,Shell,True,True,MIT License
+simonaco,simonaco/25daysofserverless,2019-12-12T21:40:37Z,2,2,Python,True,True,MIT License
+simonaco,simonaco/9squares-tfjs-workshop,2018-10-22T18:09:14Z,0,0,JavaScript,True,True,
+simonaco,simonaco/advanced-pwa,2018-05-28T17:18:04Z,0,0,TypeScript,True,True,
+simonaco,simonaco/ai-jokes-api,2020-07-14T09:31:23Z,1,1,Python,True,True,
+simonaco,simonaco/ama,2016-11-15T14:36:50Z,0,0,,True,False,
+simonaco,simonaco/angular,2022-05-03T06:23:18Z,0,0,TypeScript,True,False,MIT License
+simonaco,simonaco/angular-cosmosdb,2018-04-09T10:00:25Z,0,0,TypeScript,True,True,
+simonaco,simonaco/angular-course,2021-11-11T08:02:43Z,0,0,JavaScript,True,True,Other
+simonaco,simonaco/angular-firebase-authentication,2017-01-29T10:14:03Z,0,0,TypeScript,True,True,
+simonaco,simonaco/angular-invoicing,2014-07-14T11:04:41Z,0,0,,True,True,
+simonaco,simonaco/Angular-JumpStart,2020-05-01T15:27:14Z,0,0,TypeScript,True,True,MIT License
+simonaco,simonaco/angular-movies,2023-11-01T08:49:15Z,1,1,,True,True,MIT License
+simonaco,simonaco/angular-toh-ssr,2022-08-11T12:27:38Z,1,1,TypeScript,True,True,
+simonaco,simonaco/angular-workshop,2018-05-21T11:24:02Z,2,2,TypeScript,True,True,
+simonaco,simonaco/angular2-authentication-sample,2016-09-24T10:52:05Z,0,0,JavaScript,True,True,MIT License
+simonaco,simonaco/angular2-examples,2016-06-04T07:25:45Z,0,0,,True,True,MIT License
+simonaco,simonaco/angular2-force,2016-05-06T05:50:35Z,0,0,JavaScript,True,True,MIT License
+simonaco,simonaco/angular2-master-class-starter,2016-09-26T07:02:24Z,0,0,TypeScript,True,True,Other
+simonaco,simonaco/angular2-rxjs-chat,2016-05-03T20:09:35Z,0,0,TypeScript,True,True,MIT License
+simonaco,simonaco/angular2-seed,2016-10-16T09:06:24Z,0,0,TypeScript,True,True,MIT License
+simonaco,simonaco/angularfire-router-forms-sample,2017-01-29T10:00:52Z,0,0,TypeScript,True,True,
+simonaco,simonaco/angularjs-cart,2014-02-19T12:22:25Z,0,0,JavaScript,True,True,Apache License 2.0
+simonaco,simonaco/apipelines,2018-10-08T16:33:19Z,1,1,TypeScript,True,True,
+simonaco,simonaco/apm,2019-05-09T05:53:18Z,0,0,TypeScript,True,True,
+simonaco,simonaco/apollo,2018-08-21T07:30:08Z,0,0,,True,False,
+simonaco,simonaco/apollo-server,2019-06-10T14:03:29Z,1,1,TypeScript,True,True,MIT License
+simonaco,simonaco/arm-static-web-apps,2021-10-07T21:03:56Z,1,1,HTML,True,True,
+simonaco,simonaco/astro-starter,2021-11-02T10:04:12Z,0,0,Astro,True,True,
+simonaco,simonaco/aswa,2021-05-20T10:16:42Z,0,0,TypeScript,True,True,MIT License
+vegasbrianc,vegasbrianc/about,2017-10-26T08:49:16Z,0,0,,True,True,
+vegasbrianc,vegasbrianc/amp,2016-12-12T12:26:05Z,0,0,Go,True,False,Apache License 2.0
+vegasbrianc,vegasbrianc/application-cloud-music,2016-04-21T07:41:57Z,0,0,Java,True,True,Apache License 2.0
+vegasbrianc,vegasbrianc/argh,2016-09-02T19:11:13Z,0,0,Go,True,True,
+vegasbrianc,vegasbrianc/autobuilder,2019-06-06T11:39:40Z,0,0,HTML,True,True,
+vegasbrianc,vegasbrianc/autobuilds,2018-02-15T11:47:42Z,0,0,HTML,True,True,
+vegasbrianc,vegasbrianc/autobuilds2,2018-04-24T12:33:56Z,0,0,,True,True,
+vegasbrianc,vegasbrianc/autobuilds3,2018-06-21T11:36:46Z,0,0,,True,True,MIT License
+vegasbrianc,vegasbrianc/autobuilds5,2019-12-04T12:37:43Z,0,0,,True,True,
+vegasbrianc,vegasbrianc/autobuilds7,2018-10-30T14:05:07Z,0,0,HTML,True,True,
+vegasbrianc,vegasbrianc/awesome-docker,2017-04-11T10:09:55Z,9,9,,True,True,Apache License 2.0
+vegasbrianc,vegasbrianc/awesome-iot,2016-08-09T07:20:46Z,0,0,,True,True,
+vegasbrianc,vegasbrianc/awesome-RemoteWork,2020-04-27T21:43:08Z,0,0,,True,True,
+vegasbrianc,vegasbrianc/awesome-serverless,2016-11-30T09:51:14Z,0,0,,True,True,MIT License
+vegasbrianc,vegasbrianc/awesome-serverless-1,2016-11-30T09:52:31Z,8,8,,True,True,
+vegasbrianc,vegasbrianc/awesome-tuis,2020-08-27T19:56:10Z,2,2,,True,True,
+vegasbrianc,vegasbrianc/awsiot-github-docker-build,2018-10-26T10:18:57Z,0,0,HTML,True,True,MIT License
+vegasbrianc,vegasbrianc/azure-docs,2019-01-17T12:35:11Z,0,0,PowerShell,True,False,Creative Commons Attribution 4.0 International
+vegasbrianc,vegasbrianc/Buildenv,2015-01-20T08:07:44Z,0,0,,True,True,GNU General Public License v2.0
+vegasbrianc,vegasbrianc/cadvisor,2015-07-22T12:03:36Z,0,0,Go,True,False,Other
+vegasbrianc,vegasbrianc/cats,2016-08-22T12:08:58Z,0,0,Python,True,True,
+vegasbrianc,vegasbrianc/cats-1,2017-02-06T20:34:30Z,0,0,Python,True,True,
+vegasbrianc,vegasbrianc/chia-docker,2021-04-26T08:17:52Z,0,0,,True,True,
+vegasbrianc,vegasbrianc/CloudFamily,2020-04-20T13:54:41Z,0,0,,True,True,MIT License
+vegasbrianc,vegasbrianc/coinmarketcap-exporter,2018-02-12T07:33:42Z,0,0,Python,True,True,MIT License
+vegasbrianc,vegasbrianc/community-catalog,2016-03-31T08:38:17Z,0,0,Python,True,True,
+vegasbrianc,vegasbrianc/crypto-currency-tracker,2018-02-27T15:43:02Z,62,62,,True,True,MIT License
+vegasbrianc,vegasbrianc/dca-prep-guide,2018-03-14T16:33:57Z,0,0,,True,True,MIT License
+vegasbrianc,vegasbrianc/docker,2015-09-24T13:25:55Z,0,0,Go,True,True,Apache License 2.0
+vegasbrianc,vegasbrianc/docker-alpine-wordpress,2016-04-12T13:32:49Z,0,0,Shell,True,True,MIT License
+betatim,betatim/2015-06-02-cern-lhcb,2015-05-26T12:05:05Z,0,0,Python,True,True,Other
+betatim,betatim/2015-paper-10-simple-rules-releasing,2015-02-27T20:21:02Z,0,0,,True,True,
+betatim,betatim/2017-11-bands,2017-11-28T11:27:54Z,0,0,HTML,True,True,
+betatim,betatim/absolute-basics-of-jupyter,2018-07-06T16:34:47Z,0,0,Jupyter Notebook,True,False,MIT License
+betatim,betatim/active_sciencing,2017-06-05T07:43:21Z,0,0,HTML,True,True,
+betatim,betatim/advent,2017-11-30T23:03:50Z,0,0,,True,True,
+betatim,betatim/aiohttp,2019-04-17T14:27:28Z,0,0,Python,True,False,Apache License 2.0
+betatim,betatim/aioresponses,2019-04-18T12:01:26Z,0,0,Python,True,True,MIT License
+betatim,betatim/akc_viz,2020-02-18T15:30:31Z,0,0,,True,True,
+betatim,betatim/altair_examples,2018-07-16T20:50:49Z,0,0,Jupyter Notebook,True,True,MIT License
+betatim,betatim/analysis-essentials,2015-12-02T12:34:26Z,0,0,Python,True,True,
+betatim,betatim/analysis-template,2015-07-17T14:39:32Z,0,0,,True,True,MIT License
+betatim,betatim/app-flickrperson,2018-07-27T12:03:36Z,0,0,HTML,True,True,GNU Affero General Public License v3.0
+betatim,betatim/appmode,2017-11-09T10:49:19Z,0,0,JavaScript,True,True,Other
+betatim,betatim/appmode-1,2017-12-23T09:53:09Z,0,0,Jupyter Notebook,True,True,
+betatim,betatim/array-api,2024-11-25T14:34:20Z,0,0,,True,False,MIT License
+betatim,betatim/array-api-compat,2024-10-30T13:57:15Z,0,0,,True,True,MIT License
+betatim,betatim/array-api-strict,2024-08-30T14:23:52Z,0,0,Python,True,False,Other
+betatim,betatim/array-api-tests,2024-09-27T13:08:46Z,0,0,Python,True,False,MIT License
+betatim,betatim/asteroids_atlas_of_space,2019-06-12T11:55:29Z,0,0,Jupyter Notebook,True,True,GNU General Public License v3.0
+betatim,betatim/AstroInteractives,2018-07-06T16:36:11Z,0,0,Jupyter Notebook,True,False,MIT License
+betatim,betatim/autograded-course-starter,2018-10-05T14:20:55Z,2,2,Jupyter Notebook,True,True,
+betatim,betatim/badges-approved,2016-03-15T21:59:48Z,0,0,,True,True,Creative Commons Zero v1.0 Universal
+betatim,betatim/basic-container,2015-08-11T13:20:15Z,0,0,Shell,True,True,MIT License
+betatim,betatim/basic-gpu-binder,2018-12-03T10:32:52Z,5,5,Jupyter Notebook,True,True,
+betatim,betatim/betatim.github.io,2014-03-27T08:56:36Z,4,4,Jupyter Notebook,False,False,
+betatim,betatim/big-mac-data,2018-10-10T16:45:54Z,0,0,Jupyter Notebook,True,True,MIT License
+betatim,betatim/BigHalley,2016-09-07T20:31:54Z,0,0,,True,True,
+betatim,betatim/binder,2017-11-03T14:27:51Z,0,0,Makefile,True,True,
+betatim,betatim/binder-1,2017-11-21T06:30:55Z,0,0,,True,True,"BSD 3-Clause ""New"" or ""Revised"" License"
